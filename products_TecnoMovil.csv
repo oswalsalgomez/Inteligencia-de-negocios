@@ -1,0 +1,221 @@
+product_id,sku,product_name,category,manufacturer,launch_date,list_price_cop
+1,TM-00001,UrbanTech Air 5+,Wearables,UrbanTech,04/11/2023,$3.976.287
+2,TM-00002,TecnoPlus Max 6,Telefonos,TecnoPlus,2024-08-05,$ 4.554.433
+3,TM-00003,UrbanTech X 5+,Tablets,UrbanTech,"Jan 12, 2025",$ 3.856.110
+4,TM-00004,SmartGear Go 5+,WEARABLES,SmartGear,2021-12-25,942.638
+5,TM-00005,NeoGadgets Max 3+,Tablets,NeoGadgets,03-Sep-2023,1.332.108
+6,TM-00006,QuantumX Lite 1,Telefonos,QuantumX,2020-05-04,2.769.218
+7,TM-00007,SunDigital X 4+,ACCESORIOS,SunDigital,"May 27, 2023",$ 2.058.671
+8,TM-00008,ElectroNova Air 3,Audio,ElectroNova,2021-05-20,$630.596
+9,TM-00009,MegaDevices Max 9+,Wearables,MegaDevices,06-06-2021,"1,435,185"
+10,TM-00010,AlphaMobile Go 5S,Wearables,AlphaMobile,03/01/2024,"1,737,377"
+11,TM-00011,SunDigital Lite 2,Audio,SunDigital,"Mar 08, 2020",$4.391.740
+12,TM-00012,ElectroNova Air 9,Accesorios,ElectroNova,31/05/2023,$226.448
+13,TM-00013,AlphaMobile Go 1,Telefonos,AlphaMobile,27-Oct-2021,$645.533
+14,TM-00014,TecnoPlus Air 4S,Accesorios,TecnoPlus,27/10/2022,$ 644.394
+15,TM-00015,MegaDevices Pro 8,Tablets,MegaDevices,30-Jun-2021,"$4.573.422,83"
+16,TM-00016,MegaDevices X 2+,Audio,MegaDevices,04/01/2025,$ 1.647.274
+17,TM-00017,SunDigital Lite 1+,Audio,SunDigital,08/11/2021,3.498.575
+18,TM-00018,ElectroNova Go 6,Telefonos,Electro Nova,12-09-2024,"$3,427,432"
+19,TM-00019,AlphaMobile Lite 3S,Tablets,AlphaMobile,2020-01-25,4.548.690
+20,TM-00020,BlueWave X 8+,Audio,BlueWave,2024-10-22,$ 2.145.528
+21,TM-00021,TecnoPlus X 4,Wearables,Tecno+,2022-11-20,$ 173.797
+22,TM-00022,MegaDevices Lite 1,AUDIO,MegaDevices,"Jan 04, 2024",1.843.042
+23,TM-00023,TecnoPlus Lite 5S,Audio,TecnoPlus,"Jun 21, 2022","$2,274,684"
+24,TM-00024,QuantumX Pro 5,Audio,QuantumX,10-31-2022,$1.348.529
+25,TM-00025,NeoGadgets Go 6,Wearables,NeoGadgets,2022-11-19,561.349
+26,TM-00026,NeoGadgets Air 3,AUDIO,NeoGadgets,"Sep 21, 2024","4,268,214"
+27,TM-00027,ElectroNova Air 2+,TABLETS,ElectroNova,08/12/2021,"624,798"
+28,TM-00028,AlphaMobile Air 4+,Audio,AlphaMobile,07-25-2021,"$1.055.681,35"
+29,TM-00029,TecnoPlus Lite 9S,WEARABLES,TecnoPlus,06-04-2021,"$737.726,71"
+30,TM-00030,BlueWave Pro 5S,Tablets,BlueWave,06-19-2021,$ 2.685.565
+31,TM-00031,BlueWave X 1S,Audio,BlueWave,2022-05-25,"2,702,286"
+32,TM-00032,NeoGadgets Air 4+,Telefonos,NeoGadgets,18-Aug-2024,"664,555"
+33,TM-00033,SmartGear Pro 6S,Accesorios,SmartGear,06-Mar-2021,"627,063"
+34,TM-00034,MegaDevices Air 9,Wearables,MegaDevices,12-05-2024,"2,587,697"
+35,TM-00035,QuantumX Pro 5,ACCESORIOS,QuantumX,2023-11-10,$918.946
+36,TM-00036,ElectroNova Max 5+,Wearables,ElectroNova,31-Aug-2022,1.353.991
+37,TM-00037,SunDigital Air 8S,Tablets,SunDigital,22/06/2023,"2,264,457"
+38,TM-00038,TecnoPlus Max 1,TELEFONOS,Tecno+,11-Jul-2022,3.603.211
+39,TM-00039,SmartGear Go 8+,Accesorios,SmartGear,2020-08-07,"$1,405,447"
+40,TM-00040,UrbanTech X 2+,Wearables,UrbanTech,08-07-2023,$131.115
+41,TM-00041,SmartGear Max 9,Wearables,SmartGear,08-May-2021,352.225
+42,TM-00042,SmartGear Max 1S,Telefonos,SmartGear,09/09/2020,2.635.858
+43,TM-00043,AlphaMobile Air 7+,TELEFONOS,AlphaMobile,"Jan 04, 2023","3,016,871"
+44,TM-00044,SmartGear Pro 7,Tablets,Smart Gear,25-Oct-2022,1.413.163
+45,TM-00045,SunDigital Max 3+,Audio,SunDigital,09-15-2023,"2,131,777"
+46,TM-00046,UrbanTech Pro 4S,Telefonos,UrbanTech,25-Nov-2024,"3,998,434"
+47,TM-00047,BlueWave X 4S,TABLETS,BlueWave,"Feb 14, 2024",1.920.018
+48,TM-00048,BlueWave Max 9S,Telefonos,BlueWave,04-Jul-2024,$ 2.391.470
+49,TM-00049,QuantumX X 5,ACCESORIOS,QuantumX,09-Mar-2023,$281.530
+50,TM-00050,BlueWave Air 7S,Telefonos,BlueWave,21-May-2022,$ 959.346
+51,TM-00051,SunDigital X 7+,Audio,SunDigital,16-Dec-2022,"4,340,127"
+52,TM-00052,BlueWave X 9+,TELEFONOS,BlueWave,09/05/2024,3.707.915
+53,TM-00053,AlphaMobile X 6+,Accesorios,Alpha Mobile,17-Dec-2024,3.667.984
+54,TM-00054,ElectroNova Max 7S,ACCESORIOS,Electro Nova,05-04-2020,"$4,304,051"
+55,TM-00055,BlueWave Pro 7+,WEARABLES,BlueWave,"Oct 06, 2021","$1,117,767"
+56,TM-00056,SmartGear Max 7+,WEARABLES,Smart Gear,31/03/2023,$ 4.824.000
+57,TM-00057,TecnoPlus Pro 7+,Accesorios,TecnoPlus,"Sep 11, 2024",$ 2.456.806
+58,TM-00058,SunDigital Lite 4+,Audio,SunDigital,08-02-2020,$3.755.969
+59,TM-00059,SmartGear Air 6,Telefonos,Smart Gear,"Sep 15, 2024","2,430,572"
+60,TM-00060,AlphaMobile Pro 3,Accesorios,Alpha Mobile,26/10/2023,"$1,934,422"
+61,TM-00061,AlphaMobile Lite 7+,Audio,Alpha Mobile,"Jun 03, 2021","$660,927"
+62,TM-00062,AlphaMobile Lite 4,Audio,AlphaMobile,2021-04-21,4.197.136
+63,TM-00063,TecnoPlus Pro 3+,Telefonos,TecnoPlus,2024-07-17,3.616.384
+64,TM-00064,MegaDevices Pro 2S,Telefonos,MegaDevices,31-Oct-2024,"4,725,858"
+65,TM-00065,MegaDevices Air 6S,Wearables,MegaDevices,"Jan 11, 2023","4,738,605"
+66,TM-00066,QuantumX Lite 3+,Audio,QuantumX,12-26-2023,"$4,645,883"
+67,TM-00067,MegaDevices Pro 5+,Audio,MegaDevices,12-24-2020,"$2.224.256,23"
+68,TM-00068,AlphaMobile X 5,Accesorios,AlphaMobile,27/09/2020,"3,739,918"
+69,TM-00069,SunDigital X 3,Accesorios,SunDigital,30-Aug-2024,4.581.125
+70,TM-00070,UrbanTech X 7S,Tablets,UrbanTech,21/08/2023,"$1.844.766,37"
+71,TM-00071,QuantumX X 4S,Audio,QuantumX,"Apr 28, 2023",$3.537.767
+72,TM-00072,NeoGadgets Lite 8,Telefonos,NeoGadgets,29-Nov-2020,$4.879.240
+73,TM-00073,BlueWave Air 9+,Audio,BlueWave,27/04/2021,"3,565,005"
+74,TM-00074,AlphaMobile Max 7S,Audio,AlphaMobile,2023-03-09,"$1.890.642,42"
+75,TM-00075,UrbanTech Go 3S,Accesorios,UrbanTech,2020-11-05,$ 3.441.654
+76,TM-00076,SmartGear X 7+,Wearables,SmartGear,16-Aug-2023,$ 4.530.553
+77,TM-00077,TecnoPlus Pro 8,Telefonos,TecnoPlus,2022-10-20,3.645.464
+78,TM-00078,BlueWave Pro 8S,AUDIO,BlueWave,13/03/2022,"$2,796,033"
+79,TM-00079,UrbanTech Max 2S,Accesorios,UrbanTech,10-Dec-2024,$3.586.342
+80,TM-00080,QuantumX Pro 2+,Telefonos,QuantumX,06/03/2021,$2.985.680
+81,TM-00081,TecnoPlus X 3,Tablets,TecnoPlus,24-Nov-2022,"$1.722.358,86"
+82,TM-00082,MegaDevices Pro 8+,Telefonos,MegaDevices,2025-03-07,"4,780,919"
+83,TM-00083,SunDigital Pro 5,Tablets,SunDigital,28-Dec-2023,"$1,010,771"
+84,TM-00084,TecnoPlus Go 7S,Accesorios,TecnoPlus,14/02/2023,"$4,880,133"
+85,TM-00085,AlphaMobile X 5+,Telefonos,AlphaMobile,09/12/2020,$2.087.168
+86,TM-00086,ElectroNova Max 9S,Wearables,ElectroNova,2020-09-05,"$394,512"
+87,TM-00087,SunDigital Go 6,Telefonos,SunDigital,2024-07-29,"$4,294,306"
+88,TM-00088,UrbanTech Lite 6+,AUDIO,UrbanTech,31/01/2020,935.324
+89,TM-00089,MegaDevices Pro 9+,Tablets,MegaDevices,16/04/2021,"$3,703,130"
+90,TM-00090,NeoGadgets Lite 7+,WEARABLES,NeoGadgets,2024-12-25,"4,105,871"
+91,TM-00091,BlueWave X 5S,Accesorios,BlueWave,2020-02-03,"2,109,362"
+92,TM-00092,MegaDevices Max 1S,Wearables,MegaDevices,17-Nov-2023,"3,229,192"
+93,TM-00093,SunDigital Pro 6S,Tablets,SunDigital,"Mar 01, 2022","$4.139.865,84"
+94,TM-00094,BlueWave Air 1+,WEARABLES,BlueWave,"Jun 07, 2022","2,367,508"
+95,TM-00095,ElectroNova Lite 9,Tablets,ElectroNova,2020-08-22,3.459.366
+96,TM-00096,MegaDevices X 2S,Audio,MegaDevices,2025-02-06,"3,809,560"
+97,TM-00097,UrbanTech Go 6S,TABLETS,UrbanTech,06-Nov-2022,"$2,618,642"
+98,TM-00098,QuantumX Go 9S,Accesorios,QuantumX,07-Oct-2023,3.619.384
+99,TM-00099,MegaDevices Max 4,ACCESORIOS,MegaDevices,"Feb 26, 2025",$ 2.622.140
+100,TM-00100,AlphaMobile Go 9+,Accesorios,AlphaMobile,"Jan 04, 2024",$1.052.897
+101,TM-00101,AlphaMobile Max 9+,Tablets,AlphaMobile,2020-09-06,"4,111,752"
+102,TM-00102,ElectroNova Pro 6,Tablets,ElectroNova,2023-01-26,$2.535.095
+103,TM-00103,TecnoPlus Max 1,WEARABLES,Tecno+,08-01-2024,$1.111.854
+104,TM-00104,BlueWave X 1+,Tablets,BlueWave,01-22-2021,$4.167.788
+105,TM-00105,MegaDevices Max 3,Audio,MegaDevices,2022-02-24,"$3,744,920"
+106,TM-00106,MegaDevices Lite 8,Telefonos,MegaDevices,2021-08-14,598.140
+107,TM-00107,TecnoPlus Air 5,Tablets,TecnoPlus,21/02/2025,"$1.301.560,12"
+108,TM-00108,ElectroNova Air 4+,Wearables,ElectroNova,12-Jan-2025,$3.541.120
+109,TM-00109,MegaDevices Air 7S,Audio,MegaDevices,08-15-2021,2.544.378
+110,TM-00110,NeoGadgets Pro 4S,Telefonos,NeoGadgets,23/08/2023,$ 882.431
+111,TM-00111,ElectroNova Pro 9,Tablets,ElectroNova,2023-08-06,2.062.134
+112,TM-00112,TecnoPlus Go 8S,Audio,TecnoPlus,22-Apr-2023,$ 3.829.098
+113,TM-00113,AlphaMobile Go 8,Accesorios,AlphaMobile,2024-03-26,$ 2.421.613
+114,TM-00114,AlphaMobile Go 4S,Accesorios,AlphaMobile,"May 29, 2024","$4.997.513,49"
+115,TM-00115,QuantumX Max 3,Tablets,QuantumX,"Jul 19, 2021",$1.299.813
+116,TM-00116,SmartGear Max 8,Accesorios,SmartGear,22-May-2024,$4.824.854
+117,TM-00117,BlueWave Air 9S,Audio,BlueWave,06/08/2023,$ 2.333.766
+118,TM-00118,ElectroNova Lite 6+,Wearables,Electro Nova,02-03-2021,$384.376
+119,TM-00119,TecnoPlus Go 1+,Telefonos,TecnoPlus,"Sep 25, 2021",$1.970.357
+120,TM-00120,BlueWave Pro 8+,WEARABLES,BlueWave,09-Nov-2024,"387,487"
+121,TM-00121,MegaDevices Air 7+,Accesorios,MegaDevices,2021-10-09,$ 1.572.441
+122,TM-00122,MegaDevices Max 7S,Telefonos,MegaDevices,2020-03-12,$ 3.992.732
+123,TM-00123,ElectroNova Lite 8S,Tablets,ElectroNova,2021-02-10,"2,816,593"
+124,TM-00124,UrbanTech Lite 2S,Wearables,UrbanTech,"Jul 25, 2022","357,837"
+125,TM-00125,SunDigital Air 1+,Telefonos,SunDigital,18/02/2025,"$3.440.466,63"
+126,TM-00126,QuantumX X 4+,Audio,QuantumX,01-08-2020,$ 3.516.571
+127,TM-00127,NeoGadgets X 4S,Audio,NeoGadgets,07-31-2024,"$3,758,108"
+128,TM-00128,SmartGear Go 8,Accesorios,SmartGear,05-Nov-2021,"$3,725,184"
+129,TM-00129,NeoGadgets Max 9,Tablets,NeoGadgets,"Feb 15, 2022",$1.378.572
+130,TM-00130,UrbanTech X 8,Telefonos,UrbanTech,2024-09-04,"$1,934,925"
+131,TM-00131,SmartGear Air 5S,AUDIO,SmartGear,2021-11-09,$ 2.498.312
+132,TM-00132,MegaDevices Lite 9,Audio,MegaDevices,2025-01-23,$ 2.094.563
+133,TM-00133,AlphaMobile Go 3,Wearables,AlphaMobile,"Jun 11, 2022",4.313.433
+134,TM-00134,UrbanTech Max 1S,Accesorios,UrbanTech,"Jan 10, 2025","4,309,212"
+135,TM-00135,BlueWave Go 8,WEARABLES,BlueWave,05-14-2022,$4.914.749
+136,TM-00136,QuantumX Max 9+,Audio,QuantumX,2020-07-07,2.945.109
+137,TM-00137,MegaDevices Go 4+,Accesorios,MegaDevices,"Jan 27, 2020","1,632,530"
+138,TM-00138,AlphaMobile Max 8+,Audio,Alpha Mobile,02-19-2025,"$416,140"
+139,TM-00139,UrbanTech Lite 1,Audio,UrbanTech,2021-09-04,"$1.325.951,52"
+140,TM-00140,NeoGadgets Lite 2+,Accesorios,NeoGadgets,2023-12-22,891.919
+141,TM-00141,MegaDevices Lite 3,Telefonos,MegaDevices,12/12/2023,"$1,259,263"
+142,TM-00142,BlueWave Go 2S,Accesorios,BlueWave,2021-07-31,"$3.384.331,54"
+143,TM-00143,QuantumX Go 8+,Audio,QuantumX,"Jul 12, 2024",$2.706.346
+144,TM-00144,NeoGadgets Go 5,Telefonos,NeoGadgets,01-14-2023,"$2,019,395"
+145,TM-00145,ElectroNova Go 2S,Audio,ElectroNova,"Jul 24, 2020","$875.800,14"
+146,TM-00146,BlueWave Max 1S,Telefonos,BlueWave,11-Jun-2023,"$435,800"
+147,TM-00147,SunDigital Pro 9S,Audio,SunDigital,04-Jul-2021,$1.271.127
+148,TM-00148,SmartGear X 7+,Tablets,SmartGear,2022-08-19,"$1,518,588"
+149,TM-00149,AlphaMobile Pro 4S,AUDIO,AlphaMobile,06-Dec-2022,$ 4.941.876
+150,TM-00150,BlueWave Go 1S,Audio,BlueWave,01-31-2020,2.191.835
+151,TM-00151,BlueWave X 8S,Wearables,BlueWave,02-May-2024,"$1,375,195"
+152,TM-00152,BlueWave Lite 5,Audio,BlueWave,05/04/2024,"$2.147.975,97"
+153,TM-00153,MegaDevices Lite 6+,Telefonos,MegaDevices,"May 30, 2022","2,039,825"
+154,TM-00154,BlueWave Max 1+,Telefonos,BlueWave,27/01/2023,3.370.259
+155,TM-00155,TecnoPlus Max 4+,Wearables,TecnoPlus,25-Aug-2021,"$4,216,850"
+156,TM-00156,SunDigital Air 5+,Tablets,SunDigital,"Oct 15, 2020","1,644,942"
+157,TM-00157,SmartGear Max 8,TELEFONOS,SmartGear,30-Dec-2022,380.700
+158,TM-00158,SunDigital Max 6+,Tablets,SunDigital,02-Mar-2023,"$806.093,75"
+159,TM-00159,SmartGear Air 6+,Tablets,SmartGear,09/04/2022,"$1.158.636,49"
+160,TM-00160,BlueWave Lite 5+,TABLETS,BlueWave,06-Mar-2022,$ 2.205.621
+161,TM-00161,SunDigital X 3,Telefonos,SunDigital,2022-07-29,$3.978.648
+162,TM-00162,UrbanTech X 7,WEARABLES,UrbanTech,17/12/2022,"3,118,343"
+163,TM-00163,QuantumX Max 5+,TELEFONOS,QuantumX,"Jan 10, 2023",$ 3.865.021
+164,TM-00164,SunDigital Lite 1+,TELEFONOS,SunDigital,16-Feb-2023,2.011.440
+165,TM-00165,QuantumX Go 2+,Accesorios,QuantumX,01-Dec-2022,"$1.906.962,21"
+166,TM-00166,MegaDevices X 3,Accesorios,MegaDevices,"Aug 30, 2020",3.475.033
+167,TM-00167,BlueWave X 4+,Audio,BlueWave,"Dec 19, 2022",1.024.089
+168,TM-00168,UrbanTech Go 9S,AUDIO,UrbanTech,19-May-2024,$ 3.162.270
+169,TM-00169,SmartGear Lite 7S,Audio,SmartGear,05-28-2020,"$880,653"
+170,TM-00170,SunDigital Lite 4S,Tablets,SunDigital,03-03-2020,3.769.366
+171,TM-00171,SunDigital X 7S,Wearables,SunDigital,02-Jul-2024,"$3,058,774"
+172,TM-00172,ElectroNova Go 4+,Audio,ElectroNova,28/05/2022,$819.012
+173,TM-00173,NeoGadgets Max 4,TELEFONOS,NeoGadgets,"Jan 13, 2022","$474.283,71"
+174,TM-00174,NeoGadgets Air 4+,Tablets,NeoGadgets,2024-09-24,"$625.543,96"
+175,TM-00175,AlphaMobile Air 1S,Accesorios,AlphaMobile,"Mar 12, 2023","$1,287,774"
+176,TM-00176,SmartGear Max 3,Tablets,SmartGear,"Jan 10, 2025",$ 4.581.655
+177,TM-00177,TecnoPlus Max 4+,Tablets,Tecno+,17-Feb-2020,174.657
+178,TM-00178,TecnoPlus X 3+,Tablets,TecnoPlus,29/04/2021,2.276.064
+179,TM-00179,QuantumX Lite 8S,Telefonos,QuantumX,2020-02-15,583.163
+180,TM-00180,NeoGadgets Air 4+,Telefonos,NeoGadgets,"Sep 28, 2020",3.841.696
+181,TM-00181,QuantumX Go 1,Accesorios,QuantumX,12-09-2024,$3.892.339
+182,TM-00182,UrbanTech Lite 8,Audio,UrbanTech,19-Jul-2022,$955.649
+183,TM-00183,ElectroNova X 3S,Accesorios,ElectroNova,28-Mar-2023,"$1.294.314,54"
+184,TM-00184,NeoGadgets Lite 9S,Wearables,NeoGadgets,28/08/2024,2.777.853
+185,TM-00185,QuantumX X 2+,Wearables,QuantumX,2022-02-17,3.658.773
+186,TM-00186,QuantumX Lite 4S,Tablets,QuantumX,2021-09-11,"$3.657.688,47"
+187,TM-00187,MegaDevices Go 2S,AUDIO,MegaDevices,2023-02-07,3.539.574
+188,TM-00188,SunDigital Pro 8,Accesorios,SunDigital,07-Apr-2024,"$3.189.864,59"
+189,TM-00189,ElectroNova X 6,Telefonos,Electro Nova,24/01/2022,3.672.842
+190,TM-00190,TecnoPlus Air 6+,Wearables,TecnoPlus,"May 29, 2020","$4.760.928,18"
+191,TM-00191,UrbanTech Go 1S,Accesorios,UrbanTech,01-09-2022,"$3,597,851"
+192,TM-00192,BlueWave Air 9,Accesorios,BlueWave,11-11-2022,$919.064
+193,TM-00193,MegaDevices Max 9S,Tablets,MegaDevices,"Aug 29, 2020",$957.801
+194,TM-00194,BlueWave Lite 9+,Wearables,BlueWave,"Sep 23, 2022","$1,947,159"
+195,TM-00195,QuantumX X 3S,Telefonos,QuantumX,2021-08-18,"$2,293,514"
+196,TM-00196,BlueWave X 3,Accesorios,BlueWave,06/10/2023,"$2,994,597"
+197,TM-00197,UrbanTech Go 1,TELEFONOS,UrbanTech,09-26-2022,"$1.240.130,57"
+198,TM-00198,QuantumX Lite 8S,TABLETS,QuantumX,27-Feb-2022,3.205.747
+199,TM-00199,SunDigital Air 2,Accesorios,SunDigital,2021-01-13,$ 2.771.120
+200,TM-00200,SmartGear Go 2S,Wearables,SmartGear,16-Jul-2020,$ 467.438
+201,TM-00201,UrbanTech Lite 5,Audio,UrbanTech,10-Oct-2023,"$3.758.135,93"
+202,TM-00202,QuantumX Lite 2S,Telefonos,QuantumX,10-23-2020,"2,945,519"
+203,TM-00203,NeoGadgets Go 5,AUDIO,NeoGadgets,07-Jul-2020,"$4.470.243,79"
+204,TM-00204,UrbanTech X 4S,WEARABLES,UrbanTech,30-Dec-2023,"$509.544,10"
+205,TM-00205,SmartGear Max 2,Accesorios,Smart Gear,04/04/2022,"2,478,058"
+206,TM-00206,UrbanTech Lite 9+,Tablets,UrbanTech,06-11-2022,"1,133,688"
+207,TM-00207,QuantumX X 7+,Wearables,QuantumX,28/12/2020,"3,020,969"
+208,TM-00208,UrbanTech X 6+,TELEFONOS,UrbanTech,15-Oct-2020,"$3,906,698"
+209,TM-00209,NeoGadgets Max 2S,Audio,NeoGadgets,09-04-2022,"$3,553,870"
+210,TM-00210,SunDigital Go 6,Tablets,SunDigital,15-Nov-2022,"$3.909.572,37"
+211,TM-00211,ElectroNova Air 7+,Tablets,ElectroNova,"Jun 01, 2020","$3.704.719,82"
+212,TM-00212,UrbanTech Pro 6,Accesorios,UrbanTech,04-19-2020,"$2.898.043,95"
+213,TM-00213,QuantumX Air 4S,Telefonos,QuantumX,01-16-2024,"$4,501,035"
+214,TM-00214,SmartGear Pro 5,Tablets,SmartGear,29/06/2021,"912,386"
+215,TM-00215,NeoGadgets Pro 8S,TABLETS,NeoGadgets,03-Aug-2020,"$682,109"
+216,TM-00216,NeoGadgets Go 6+,Wearables,NeoGadgets,12-10-2021,$3.815.690
+217,TM-00217,SmartGear Lite 8+,Audio,SmartGear,"Feb 02, 2022","$622,826"
+218,TM-00218,BlueWave Max 9,Wearables,BlueWave,2024-09-02,$ 521.205
+219,TM-00219,MegaDevices X 6S,Audio,MegaDevices,"Oct 15, 2021",$ 365.472
+220,TM-00220,ElectroNova Lite 8+,Wearables,ElectroNova,15-May-2024,"4,303,593"

@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,employee_id,center_id,status,channel,shipping_city
+1,2023-05-10,225,13,4,Completado,Web,Cali
+2,15-May-2025,152,5,3,Pendiente,Marketplace,Bucaramanga
+3,25/05/2023,73,4,1,Completado,Web,Ibagué
+4,05-14-2025,177,7,4,Completado,Marketplace,Cali
+5,2024-05-23,100,4,2,Pendiente,Tienda,Ibagué
+6,28-Dec-2024,102,16,3,Completado,Marketplace,Barranquilla
+7,2023-01-19,36,7,3,Completado,Marketplace,Cartagena
+8,"Mar 06, 2023",220,6,1,Completado,Tienda,Pereira
+9,08-13-2023,237,15,3,Completado,Marketplace,Medellín
+10,02-24-2024,72,18,2,Completado,Marketplace,Medellín
+11,"Feb 24, 2023",324,1,4,Completado,Tienda,Ibagué
+12,25/06/2023,201,8,3,Completado,Marketplace,Medellín
+13,27/04/2025,264,5,4,Completado,Marketplace,Cali
+14,"Oct 13, 2023",120,2,2,Cancelado,Web,Pereira
+15,01-Jul-2023,325,9,3,Completado,Tienda,Pereira
+16,16-Jun-2023,265,13,3,Pendiente,Web,Manizales
+17,09-17-2024,226,6,2,Completado,Web,Barranquilla
+18,06-27-2025,61,8,4,Completado,Tienda,Manizales
+19,2023-01-06,23,5,2,Completado,Tienda,Villavicencio
+20,"Apr 02, 2023",265,13,1,Completado,Marketplace,Cartagena
+21,16-Jun-2024,311,16,4,Completado,Web,Villavicencio
+22,07/07/2023,262,9,2,Completado,Web,Villavicencio
+23,12-06-2024,198,5,1,Completado,Marketplace,Pereira
+24,"Jan 04, 2025",315,2,1,Completado,Tienda,Villavicencio
+25,2023-09-04,221,17,4,Pendiente,Marketplace,Ibagué
+26,"May 20, 2023",51,14,2,Completado,Tienda,Medellín
+27,"Mar 16, 2023",4,17,1,Completado,Marketplace,Barranquilla
+28,14-Aug-2025,300,9,3,Completado,Marketplace,Bucaramanga
+29,08-04-2025,248,6,3,Completado,Web,Cartagena
+30,"Jan 07, 2023",118,15,2,Completado,Web,Bucaramanga
+31,2023-03-09,326,1,1,Completado,Marketplace,Pereira
+32,03-16-2025,114,12,1,Completado,Web,Pereira
+33,2024-07-29,225,1,2,Completado,Marketplace,Cartagena
+34,2023-04-04,358,8,2,Completado,Tienda,Bogotá
+35,08-11-2024,343,13,4,Completado,Tienda,Medellín
+36,02-Jan-2023,287,12,3,Completado,Marketplace,Barranquilla
+37,"Jul 02, 2023",287,3,3,Cancelado,Marketplace,Cartagena
+38,2025-06-26,174,15,4,Completado,Tienda,Manizales
+39,2025-04-15,196,8,2,Completado,Web,Ibagué
+40,19/11/2023,128,10,1,Completado,Web,Medellín
+41,2024-03-13,294,9,2,completado,Tienda,Manizales
+42,2025-02-04,106,8,2,Completado,Marketplace,Bucaramanga
+43,01-31-2025,340,16,1,Pendiente,Tienda,Manizales
+44,"Aug 21, 2023",94,17,3,Completado,Marketplace,Cali
+45,24-Feb-2023,245,18,1,Completado,Marketplace,Cali
+46,20/05/2023,346,7,4,Completado,Web,Villavicencio
+47,2023-02-14,314,11,3,Completado,Tienda,Pereira
+48,2024-04-18,68,8,1,Completado,Tienda,Ibagué
+49,"Apr 09, 2025",216,16,2,Pendiente,Marketplace,Ibagué
+50,08-30-2024,204,4,2,Completado,Web,Manizales
+51,2024-11-27,172,9,3,Completado,Web,Bucaramanga
+52,"Jan 05, 2023",180,7,2,completado,Web,Ibagué
+53,2023-09-20,75,6,3,Completado,Marketplace,Pereira
+54,17-Jun-2025,176,8,3,Completado,Marketplace,Cartagena
+55,08-10-2024,86,6,1,Completado,Marketplace,Cartagena
+56,07-29-2024,204,4,1,Cancelado,Web,Ibagué
+57,12-16-2024,269,3,1,Completado,Tienda,Pereira
+58,21/08/2023,65,5,2,Completado,Web,Bucaramanga
+59,27-Mar-2025,91,15,4,Completado,Marketplace,Cartagena
+60,"Jun 18, 2024",188,14,3,Completado,Tienda,Ibagué
+61,28-Feb-2024,5,16,4,Completado,Web,Cartagena
+62,22-Jul-2024,211,18,4,Completado,Marketplace,Pereira
+63,"Aug 07, 2023",356,9,3,Completado,Web,Pereira
+64,19/12/2023,57,15,4,Completado,Web,Barranquilla
+65,09-01-2024,53,10,3,Completado,Marketplace,Bogotá
+66,"Oct 13, 2023",112,11,4,Pendiente,Web,Bucaramanga
+67,2025-02-23,37,18,4,Completado,Web,Pereira
+68,2024-02-28,128,13,4,Completado,Tienda,Barranquilla
+69,01-Oct-2024,160,11,2,Completado,Marketplace,Ibagué
+70,05/08/2025,327,10,2,Pendiente,Marketplace,Barranquilla
+71,30/04/2024,223,11,1,Pendiente,Marketplace,Medellín
+72,04-04-2025,80,12,1,Completado,Tienda,Villavicencio
+73,10-Apr-2025,360,18,1,Completado,Web,Ibagué
+74,26/03/2023,184,5,3,Completado,Marketplace,Manizales
+75,2025-07-12,279,12,3,Completado,Marketplace,Ibagué
+76,02-06-2023,152,9,3,Completado,Marketplace,Ibagué
+77,2023-12-07,33,18,4,Completado,Web,Ibagué
+78,06-07-2023,329,11,1,Completado,Tienda,Bogotá
+79,04-Mar-2025,249,7,1,Completado,Web,Manizales
+80,10-Nov-2024,7,7,4,Pendiente,Tienda,Manizales
+81,17/02/2024,213,12,1,Completado,Marketplace,Bogotá
+82,02/12/2024,111,17,1,Completado,Marketplace,Pereira
+83,"Mar 12, 2023",292,6,4,Completado,Marketplace,Villavicencio
+84,07-02-2025,86,6,4,Completado,Tienda,Ibagué
+85,08-07-2023,166,8,2,Completado,Marketplace,Cartagena
+86,03-24-2024,146,1,2,Completado,Web,Barranquilla
+87,20/06/2024,284,17,2,Completado,Web,Cali
+88,12/12/2023,120,9,3,Completado,Marketplace,Barranquilla
+89,06-Mar-2024,248,6,4,Pendiente,Marketplace,Villavicencio
+90,"Mar 03, 2023",154,2,4,Pendiente,Web,Bucaramanga
+91,06-01-2025,324,13,1,Completado,Web,Ibagué
+92,"Jul 12, 2024",79,2,4,Completado,Marketplace,Ibagué
+93,"Feb 09, 2023",149,13,2,Completado,Web,Villavicencio
+94,03/04/2024,135,3,4,Completado,Marketplace,Cali
+95,25-Aug-2024,203,7,2,Completado,Web,Bucaramanga
+96,08-13-2023,212,14,3,Completado,Web,Villavicencio
+97,07-01-2025,180,15,2,Completado,Tienda,Barranquilla
+98,11-Aug-2025,125,5,3,Completado,Tienda,Cartagena
+99,30/05/2024,280,17,3,Completado,Marketplace,Cali
+100,07-14-2024,340,17,1,Completado,Web,Barranquilla
+101,07-01-2023,339,9,3,Completado,Web,Pereira
+102,30/03/2025,162,16,1,Completado,Web,Ibagué
+103,01-27-2024,272,10,3,Completado,Tienda,Bogotá
+104,20/02/2024,257,9,1,Completado,Web,Bogotá
+105,2024-07-07,45,13,2,Completado,Tienda,Pereira
+106,12-05-2023,335,5,2,Completado,Marketplace,Ibagué
+107,"Feb 24, 2023",81,11,1,Completado,Marketplace,Medellín
+108,"Apr 15, 2025",164,14,4,Completado,Marketplace,Cartagena
+109,08-07-2025,14,9,2,Completado,Marketplace,Bogotá
+110,2024-12-22,241,12,2,Completado,Web,Cali
+111,02-07-2024,8,9,4,Completado,Tienda,Barranquilla
+112,04-Apr-2024,316,16,3,Completado,Tienda,Pereira
+113,12-10-2023,293,18,1,Completado,Web,Bogotá
+114,03-23-2023,21,18,4,Completado,Tienda,Barranquilla
+115,11/02/2024,217,10,1,Completado,Tienda,Manizales
+116,30-Jul-2023,70,13,4,Completado,Tienda,Manizales
+117,2023-07-07,355,6,1,Completado,Web,Bucaramanga
+118,2024-08-31,197,17,2,Completado,Tienda,Cali
+119,07-07-2024,27,14,3,Completado,Web,Cartagena
+120,07-12-2025,319,9,1,Completado,Web,Ibagué
+121,2023-04-20,122,7,4,completado,Tienda,Villavicencio
+122,05-20-2024,143,18,2,Completado,Tienda,Bucaramanga
+123,2025-01-18,342,10,3,Completado,Tienda,Pereira
+124,13-Nov-2024,339,18,2,Completado,Web,Bogotá
+125,15/04/2023,189,13,1,Completado,Marketplace,Medellín
+126,2023-04-13,270,14,2,Completado,Tienda,Medellín
+127,"Apr 13, 2023",353,10,4,Pendiente,Web,Ibagué
+128,08-Mar-2025,324,16,4,Completado,Marketplace,Barranquilla
+129,2024-02-02,61,7,4,Completado,Web,Ibagué
+130,2024-09-07,145,9,1,Completado,Marketplace,Bucaramanga
+131,05-26-2023,171,11,4,Completado,Tienda,Cali
+132,04-04-2025,243,2,2,Completado,Web,Ibagué
+133,"Dec 22, 2024",290,11,1,Completado,Web,Bucaramanga
+134,"Nov 29, 2024",16,11,4,Completado,Tienda,Villavicencio
+135,25/02/2023,140,14,1,Pendiente,Web,Manizales
+136,2023-06-22,20,7,1,Completado,Web,Ibagué
+137,20-Feb-2024,269,10,3,Completado,Tienda,Ibagué
+138,15/01/2024,199,17,1,Completado,Tienda,Villavicencio
+139,11-19-2023,24,4,3,Completado,Web,Barranquilla
+140,2024-12-16,226,4,3,Completado,Tienda,Bogotá
+141,29/11/2024,180,18,3,Completado,Marketplace,Cartagena
+142,2023-01-01,9999,18,4,Completado,Web,Bogotá
+143,13/11/2024,45,14,4,Completado,Marketplace,Manizales
+144,"Jul 06, 2023",41,15,2,Pendiente,Marketplace,Manizales
+145,07-11-2025,351,15,4,Cancelado,Tienda,Villavicencio
+146,14-Mar-2025,167,15,4,Completado,Tienda,Bucaramanga
+147,2024-01-01,53,13,1,Completado,Tienda,Cartagena
+148,11/01/2023,247,13,1,Completado,Marketplace,Villavicencio
+149,"May 30, 2025",343,3,4,Completado,Web,Bucaramanga
+150,2025-02-16,158,13,1,Completado,Marketplace,Pereira
+151,03-22-2023,72,1,2,Completado,Marketplace,Cartagena
+152,04-24-2023,9999,10,4,Devuelto,Web,Medellín
+153,08/08/2023,207,5,3,Completado,Marketplace,Bogotá
+154,07-17-2025,184,4,3,Completado,Web,Villavicencio
+155,28-Mar-2025,109,6,4,Completado,Web,Bucaramanga
+156,"Sep 23, 2023",9,5,4,Completado,Tienda,Medellín
+157,10-Oct-2024,310,14,2,Completado,Marketplace,Manizales
+158,2023-12-14,122,17,3,Cancelado,Marketplace,Bucaramanga
+159,03-24-2024,248,12,1,Completado,Marketplace,Medellín
+160,"Feb 14, 2023",239,17,1,Pendiente,Tienda,Barranquilla
+161,"Apr 13, 2023",297,10,1,Completado,Tienda,Manizales
+162,22/12/2024,149,6,1,Cancelado,Marketplace,Cartagena
+163,14/05/2025,27,10,1,Completado,Tienda,Ibagué
+164,19-Apr-2024,68,9,3,Completado,Marketplace,Medellín
+165,2024-07-17,229,12,2,Pendiente,Tienda,Manizales
+166,08-11-2025,75,5,4,Devuelto,Web,Barranquilla
+167,26-Dec-2024,329,9,1,Completado,Web,Manizales
+168,11-21-2024,200,16,3,Completado,Web,Bogotá
+169,2024-10-21,22,4,3,Completado,Marketplace,Cartagena
+170,24/07/2025,201,15,2,Completado,Tienda,Ibagué
+171,2024-11-13,345,1,1,Completado,Marketplace,Medellín
+172,2023-02-19,318,3,1,Completado,Tienda,Villavicencio
+173,02-07-2024,45,5,4,Completado,Marketplace,Villavicencio
+174,24-Nov-2024,151,15,1,Completado,Web,Pereira
+175,08-10-2023,199,11,1,Devuelto,Web,Cali
+176,2025-03-02,56,5,4,Completado,Tienda,Manizales
+177,28-Jul-2023,129,15,1,Completado,Marketplace,Bogotá
+178,2023-05-02,137,5,3,Completado,Tienda,Ibagué
+179,10-12-2023,197,16,1,Completado,Web,Bucaramanga
+180,2023-05-10,274,11,1,Completado,Web,Barranquilla
+181,18/06/2025,98,10,4,Completado,Marketplace,Bucaramanga
+182,2024-03-14,13,8,4,Completado,Marketplace,Cartagena
+183,02-Jun-2024,22,13,1,Pendiente,Marketplace,Ibagué
+184,12-16-2024,73,16,1,Cancelado,Marketplace,Bogotá
+185,2023-03-07,89,2,3,Pendiente,Web,Villavicencio
+186,07-09-2024,255,8,1,Completado,Web,Pereira
+187,03-Oct-2024,110,2,2,Completado,Web,Cali
+188,2025-07-20,21,5,1,Pendiente,Marketplace,Pereira
+189,08-15-2023,4,6,1,Completado,Web,Pereira
+190,20-Jun-2025,211,8,2,Completado,Marketplace,Cali
+191,23/09/2024,121,7,1,Devuelto,Marketplace,Bucaramanga
+192,07-12-2024,142,2,2,Pendiente,Marketplace,Manizales
+193,21/12/2023,108,14,3,Completado,Web,Bogotá
+194,07-20-2025,276,6,2,Completado,Marketplace,Medellín
+195,03-Dec-2024,228,11,4,Completado,Web,Barranquilla
+196,15/12/2023,51,8,4,Completado,Tienda,Medellín
+197,02-16-2023,92,13,3,Completado,Tienda,Bucaramanga
+198,2024-02-02,31,9,2,Pendiente,Web,Pereira
+199,2023-02-04,81,6,2,Completado,Marketplace,Manizales
+200,"Feb 22, 2024",8,14,2,Completado,Marketplace,Barranquilla
+201,06-Aug-2024,21,16,1,Completado,Web,Medellín
+202,2023-01-14,112,5,3,Completado,Tienda,Bogotá
+203,12-Feb-2024,13,15,4,Completado,Marketplace,Pereira
+204,14-Mar-2024,325,1,1,Pendiente,Web,Ibagué
+205,2023-03-02,139,18,2,Completado,Marketplace,Bucaramanga
+206,"Jul 13, 2024",187,2,1,Completado,Marketplace,Bogotá
+207,"Jan 04, 2025",288,7,2,Completado,Tienda,Manizales
+208,05-03-2024,137,17,4,Completado,Web,Bucaramanga
+209,15/02/2023,273,10,4,Completado,Marketplace,Medellín
+210,05-May-2024,92,10,1,Completado,Tienda,Cali
+211,01/10/2023,278,5,4,Completado,Marketplace,Bogotá
+212,03/01/2025,172,14,3,Completado,Web,Manizales
+213,09/11/2024,248,12,3,Pendiente,Tienda,Bucaramanga
+214,08-06-2024,147,6,2,Completado,Marketplace,Cali
+215,11-Nov-2023,295,5,4,Completado,Tienda,Ibagué
+216,12-16-2024,177,5,3,Completado,Tienda,Ibagué
+217,01/06/2025,164,5,1,Completado,Marketplace,Bucaramanga
+218,2023-01-22,227,11,1,Completado,Tienda,Cali
+219,"Feb 07, 2024",206,8,4,Completado,Tienda,Villavicencio
+220,"Apr 14, 2024",101,1,1,Pendiente,Marketplace,Medellín
+221,15/02/2025,185,13,2,Pendiente,Web,Pereira
+222,12-09-2023,288,3,2,Pendiente,Marketplace,Pereira
+223,09/01/2023,307,3,2,Completado,Marketplace,Bucaramanga
+224,06-14-2023,46,1,4,Cancelado,Web,Cali
+225,2025-04-28,252,2,3,Completado,Web,Ibagué
+226,"Mar 16, 2023",242,4,3,Completado,Marketplace,Barranquilla
+227,"Aug 06, 2023",253,3,3,Completado,Web,Cartagena
+228,11-17-2023,84,2,2,Completado,Marketplace,Cali
+229,"May 14, 2023",183,2,3,Completado,Tienda,Ibagué
+230,07-08-2023,86,18,3,Completado,Marketplace,Cartagena
+231,"Apr 19, 2023",297,12,2,Completado,Web,Bucaramanga
+232,07-04-2024,97,18,1,Completado,Tienda,Medellín
+233,08-Jul-2023,354,12,2,Completado,Marketplace,Ibagué
+234,04/03/2023,114,5,2,Completado,Tienda,Barranquilla
+235,08-Nov-2024,40,1,4,Completado,Tienda,Medellín
+236,20/12/2024,304,2,4,Cancelado,Tienda,Medellín
+237,13/08/2023,301,7,2,Completado,Tienda,Cali
+238,11-12-2023,314,8,1,Pendiente,Tienda,Ibagué
+239,2025-05-26,276,1,1,Completado,Marketplace,Manizales
+240,2023-03-13,93,12,4,Completado,Tienda,Pereira
+241,2025-01-24,239,4,2,Completado,Marketplace,Cartagena
+242,2024-08-08,253,4,4,Completado,Marketplace,Cartagena
+243,"Oct 20, 2024",348,12,2,Devuelto,Web,Medellín
+244,2025-05-09,206,4,2,Completado,Tienda,Bucaramanga
+245,31/12/2023,218,16,3,Completado,Marketplace,Villavicencio
+246,06-Jan-2023,208,16,3,Completado,Tienda,Medellín
+247,"Jul 23, 2024",51,2,1,Completado,Tienda,Pereira
+248,06-06-2024,339,17,4,Completado,Web,Manizales
+249,2023-09-06,221,4,4,Completado,Web,Manizales
+250,2023-06-05,252,14,2,Completado,Web,Medellín
+251,"Apr 01, 2023",81,17,1,Completado,Marketplace,Pereira
+252,"Feb 07, 2024",66,12,3,Completado,Tienda,Bucaramanga
+253,14/08/2023,126,8,2,Completado,Tienda,Medellín
+254,2024-09-23,20,15,4,Completado,Web,Cartagena
+255,10-16-2023,302,1,3,Completado,Web,Villavicencio
+256,"Aug 03, 2025",354,7,3,Completado,Marketplace,Bucaramanga
+257,09-Dec-2023,104,16,1,Pendiente,Tienda,Cartagena
+258,23-Jul-2024,48,4,3,Completado,Marketplace,Manizales
+259,04-06-2024,340,18,3,Completado,Web,Villavicencio
+260,27-May-2025,296,16,2,Devuelto,Marketplace,Manizales
+261,31/05/2025,321,2,2,Completado,Tienda,Cali
+262,31/03/2023,212,9,3,Completado,Marketplace,Villavicencio
+263,30-Aug-2024,99,1,2,Pendiente,Web,Manizales
+264,"Feb 28, 2025",133,9,2,Pendiente,Marketplace,Manizales
+265,16/11/2023,161,10,1,Devuelto,Web,Medellín
+266,2024-02-09,268,17,3,Pendiente,Tienda,Villavicencio
+267,25/08/2023,300,13,2,Completado,Tienda,Medellín
+268,05/03/2024,131,2,4,Completado,Tienda,Bucaramanga
+269,2025-03-27,189,10,1,Devuelto,Marketplace,Bogotá
+270,24/06/2025,123,9,4,Completado,Marketplace,Bucaramanga
+271,04-13-2024,227,13,1,Devuelto,Web,Cartagena
+272,29-Dec-2023,108,6,4,Completado,Marketplace,Pereira
+273,2023-07-11,252,16,4,Pendiente,Marketplace,Pereira
+274,"Sep 19, 2023",134,17,1,completado,Marketplace,Ibagué
+275,2024-04-19,95,15,2,Completado,Marketplace,Cartagena
+276,12-Dec-2024,333,5,4,Cancelado,Web,Manizales
+277,2023-05-10,168,10,2,Completado,Tienda,Pereira
+278,"Jul 18, 2025",118,3,4,Completado,Tienda,Bogotá
+279,2023-04-28,291,4,1,Completado,Web,Manizales
+280,03-31-2025,105,7,3,Completado,Web,Cali
+281,12/05/2025,93,14,2,Completado,Web,Barranquilla
+282,20-Aug-2023,241,5,3,Completado,Tienda,Pereira
+283,07/01/2023,171,8,4,Completado,Marketplace,Villavicencio
+284,"Jul 13, 2023",259,13,3,Completado,Tienda,Ibagué
+285,18/12/2024,134,6,4,Completado,Web,Cali
+286,12-Apr-2023,272,14,2,Completado,Tienda,Cali
+287,12/01/2025,265,11,4,Completado,Marketplace,Manizales
+288,03-11-2023,28,7,2,Completado,Tienda,Manizales
+289,17-Jul-2025,21,15,3,Completado,Web,Manizales
+290,2025-03-15,64,12,1,Pendiente,Tienda,Cali
+291,18-Jun-2024,270,6,4,Completado,Web,Medellín
+292,"Jul 20, 2025",192,4,3,Completado,Web,Manizales
+293,2025-01-10,319,15,3,Devuelto,Marketplace,Cali
+294,12-03-2024,29,3,4,Completado,Tienda,Barranquilla
+295,2024-08-02,335,5,1,Completado,Web,Cartagena
+296,2024-03-20,263,7,4,Pendiente,Web,Cartagena
+297,2025-03-02,48,2,3,Completado,Marketplace,Cali
+298,"May 30, 2024",41,16,3,Devuelto,Marketplace,Cartagena
+299,05-Aug-2023,25,18,1,Completado,Tienda,Ibagué
+300,01-16-2024,131,3,1,Completado,Web,Cali
+301,17-Jul-2024,153,11,4,Completado,Marketplace,Cartagena
+302,25-Mar-2023,133,4,4,Completado,Web,Medellín
+303,06-20-2025,245,15,4,Completado,Marketplace,Villavicencio
+304,"Aug 05, 2024",203,10,1,Completado,Tienda,Medellín
+305,"Dec 07, 2024",14,7,4,Completado,Tienda,Pereira
+306,2023-06-21,243,14,1,Completado,Tienda,Manizales
+307,26-Jan-2024,201,2,3,Completado,Marketplace,Pereira
+308,2024-06-13,250,13,4,Completado,Marketplace,Manizales
+309,2024-12-26,217,11,1,Pendiente,Web,Manizales
+310,02-07-2025,331,12,4,Completado,Tienda,Cartagena
+311,28/07/2025,260,8,3,Completado,Marketplace,Manizales
+312,05-May-2024,214,12,4,Devuelto,Tienda,Villavicencio
+313,22-Feb-2025,342,16,2,completado,Marketplace,Manizales
+314,28/05/2025,156,8,2,Completado,Tienda,Bucaramanga
+315,10-Mar-2023,33,11,4,Completado,Tienda,Ibagué
+316,20-Jan-2024,24,18,3,Completado,Marketplace,Ibagué
+317,08-Jun-2023,225,15,1,Pendiente,Marketplace,Medellín
+318,19-Jul-2025,86,4,2,Completado,Marketplace,Cartagena
+319,06/05/2024,71,4,2,Devuelto,Tienda,Barranquilla
+320,02-Apr-2025,213,12,2,Completado,Marketplace,Pereira
+321,10-10-2023,235,17,3,Completado,Tienda,Ibagué
+322,06-22-2025,162,13,2,Completado,Tienda,Cali
+323,2025-06-06,339,17,3,Completado,Marketplace,Ibagué
+324,2024-11-04,271,5,4,Completado,Marketplace,Villavicencio
+325,10/06/2024,276,11,4,Completado,Tienda,Ibagué
+326,"Jun 22, 2023",175,6,1,Pendiente,Marketplace,Villavicencio
+327,2023-06-16,31,12,3,Completado,Tienda,Bogotá
+328,25/02/2023,294,1,4,Devuelto,Marketplace,Villavicencio
+329,18/07/2024,294,5,4,Completado,Tienda,Bucaramanga
+330,09-21-2024,218,14,1,Completado,Tienda,Manizales
+331,03/07/2024,270,13,4,Completado,Web,Pereira
+332,02/10/2024,249,15,2,Completado,Marketplace,Medellín
+333,19/05/2023,81,18,3,Devuelto,Marketplace,Pereira
+334,03-02-2023,293,10,1,Completado,Web,Cartagena
+335,04-01-2023,302,14,1,Completado,Web,Barranquilla
+336,"Oct 13, 2023",281,12,1,Completado,Web,Villavicencio
+337,13/10/2023,311,5,2,Completado,Web,Manizales
+338,18/01/2025,341,14,4,Cancelado,Web,Ibagué
+339,04-Aug-2025,143,3,2,Completado,Marketplace,Cartagena
+340,2025-02-04,44,7,1,Completado,Web,Ibagué
+341,"Mar 09, 2023",273,6,1,Pendiente,Tienda,Villavicencio
+342,04-Jan-2024,12,11,4,Completado,Marketplace,Bucaramanga
+343,08/09/2024,94,9,1,Completado,Web,Cali
+344,2024-12-18,93,1,1,Completado,Web,Cali
+345,20/11/2024,301,8,4,Completado,Web,Medellín
+346,2025-01-23,248,1,4,completado,Tienda,Cartagena
+347,2023-05-11,334,5,3,completado,Tienda,Ibagué
+348,11/10/2024,126,18,4,Completado,Tienda,Bogotá
+349,02-21-2023,307,9,4,Pendiente,Tienda,Villavicencio
+350,01/01/2025,154,3,4,Completado,Tienda,Ibagué
+351,13/08/2023,176,9,4,Completado,Web,Bucaramanga
+352,"May 14, 2023",355,5,1,Completado,Tienda,Cali
+353,05-24-2024,334,3,1,Pendiente,Marketplace,Manizales
+354,20/05/2025,308,12,4,Pendiente,Marketplace,Bogotá
+355,2024-12-13,99,15,1,Completado,Web,Bucaramanga
+356,09-07-2023,114,8,4,Completado,Web,Villavicencio
+357,05/01/2025,57,9,4,Completado,Marketplace,Villavicencio
+358,12/02/2023,34,5,3,Completado,Tienda,Ibagué
+359,2024-05-30,315,9,4,Cancelado,Marketplace,Bogotá
+360,03-03-2024,239,16,3,Completado,Marketplace,Barranquilla
+361,2025-06-26,273,15,3,Completado,Web,Medellín
+362,02-21-2024,354,14,1,Completado,Tienda,Bucaramanga
+363,10/02/2024,222,1,3,Completado,Tienda,Manizales
+364,2023-01-03,122,3,4,Completado,Web,Villavicencio
+365,19-Dec-2023,18,13,3,Pendiente,Tienda,Cali
+366,"Aug 25, 2023",155,14,1,Completado,Marketplace,Bogotá
+367,"Apr 12, 2024",307,1,4,Completado,Web,Villavicencio
+368,"Dec 31, 2023",346,1,4,Completado,Tienda,Medellín
+369,13-Jul-2025,35,7,2,Completado,Web,Pereira
+370,09-Apr-2023,66,10,4,Devuelto,Web,Cartagena
+371,04/07/2024,176,10,3,Completado,Marketplace,Cali
+372,2023-05-16,287,2,4,Completado,Tienda,Barranquilla
+373,2024-12-01,342,16,4,Completado,Marketplace,Villavicencio
+374,29/10/2024,233,2,4,Cancelado,Marketplace,Barranquilla
+375,2024-09-04,247,11,4,Completado,Tienda,Bucaramanga
+376,2024-03-01,16,18,1,Completado,Tienda,Villavicencio
+377,04-25-2024,113,9,2,Pendiente,Tienda,Cali
+378,23-Jan-2024,11,5,4,Pendiente,Tienda,Bucaramanga
+379,11/02/2023,191,6,4,Completado,Tienda,Cali
+380,19-Aug-2024,356,12,3,Completado,Marketplace,Barranquilla
+381,2023-08-12,97,18,3,Completado,Tienda,Bogotá
+382,2025-03-15,42,16,1,Completado,Marketplace,Ibagué
+383,27/09/2023,192,17,4,Devuelto,Web,Cartagena
+384,12-May-2025,121,13,2,Completado,Web,Villavicencio
+385,04-20-2025,69,3,3,Completado,Tienda,Villavicencio
+386,10-Mar-2023,319,11,4,Completado,Web,Bucaramanga
+387,"Feb 01, 2024",331,3,3,Completado,Marketplace,Ibagué
+388,16/06/2023,51,4,1,Completado,Tienda,Bucaramanga
+389,2024-08-04,350,9,2,Completado,Tienda,Ibagué
+390,31/03/2025,297,1,4,Completado,Tienda,Pereira
+391,"May 02, 2023",243,8,4,Pendiente,Web,Medellín
+392,2024-05-13,231,18,1,Completado,Tienda,Cartagena
+393,2024-05-28,182,11,2,Completado,Web,Ibagué
+394,"Jan 11, 2024",79,11,4,Completado,Web,Medellín
+395,07-24-2024,48,6,1,Completado,Tienda,Villavicencio
+396,"May 11, 2025",150,17,1,Completado,Marketplace,Bogotá
+397,"May 11, 2025",57,5,4,Completado,Web,Barranquilla
+398,2024-04-16,341,16,2,Completado,Web,Villavicencio
+399,28/01/2024,142,7,1,Completado,Web,Villavicencio
+400,"Dec 18, 2024",236,15,1,Completado,Marketplace,Manizales
+401,10/08/2025,213,8,2,Completado,Web,Manizales
+402,28-Mar-2023,123,6,3,Completado,Web,Medellín
+403,"Jun 08, 2024",189,3,1,Completado,Web,Pereira
+404,01-06-2024,328,15,4,Completado,Tienda,Pereira
+405,03-03-2023,59,5,3,Completado,Web,Manizales
+406,08-18-2024,337,8,4,Completado,Web,Cali
+407,03-08-2025,151,4,4,Completado,Tienda,Cartagena
+408,2023-11-04,18,18,2,Completado,Marketplace,Ibagué
+409,"Mar 27, 2024",158,15,1,Completado,Web,Barranquilla
+410,05/02/2024,9,14,1,Completado,Tienda,Medellín
+411,12-02-2024,86,2,4,Completado,Web,Bucaramanga
+412,11/09/2024,220,4,2,Completado,Web,Cali
+413,04/01/2025,162,1,4,Completado,Tienda,Cartagena
+414,"Aug 04, 2024",256,4,2,Devuelto,Marketplace,Bucaramanga
+415,2023-12-19,342,16,1,Completado,Marketplace,Manizales
+416,06-Nov-2023,120,1,1,Completado,Web,Barranquilla
+417,21/01/2024,192,16,3,Completado,Tienda,Bogotá
+418,09/04/2024,169,5,3,Completado,Tienda,Ibagué
+419,13/05/2023,106,18,1,Cancelado,Tienda,Barranquilla
+420,30/01/2024,36,7,1,Devuelto,Tienda,Cali
+421,2024-03-20,282,7,2,Completado,Marketplace,Manizales
+422,04-01-2023,311,8,3,Completado,Marketplace,Barranquilla
+423,05-31-2023,242,15,4,Completado,Web,Cali
+424,"Aug 10, 2023",284,6,3,Completado,Web,Cartagena
+425,12/11/2024,101,5,2,Completado,Marketplace,Bucaramanga
+426,07-30-2025,329,3,4,Completado,Tienda,Pereira
+427,01-Nov-2024,179,17,4,Completado,Marketplace,Bogotá
+428,12-13-2024,347,1,2,Completado,Marketplace,Cali
+429,30/09/2023,60,3,4,Completado,Tienda,Ibagué
+430,14-Apr-2023,355,10,4,Completado,Web,Medellín
+431,20-May-2025,177,5,3,Completado,Marketplace,Pereira
+432,2024-10-13,357,14,4,Completado,Web,Cali
+433,"Jun 30, 2024",102,16,2,Cancelado,Web,Villavicencio
+434,31-Aug-2024,94,7,3,Pendiente,Web,Villavicencio
+435,11-Apr-2023,41,10,1,Completado,Tienda,Bucaramanga
+436,"Aug 10, 2025",245,16,1,Completado,Tienda,Villavicencio
+437,01/06/2023,268,1,4,Completado,Web,Manizales
+438,01-11-2025,123,12,4,Completado,Web,Bucaramanga
+439,2025-07-18,358,13,2,Completado,Marketplace,Cartagena
+440,04-Nov-2024,338,16,4,Completado,Marketplace,Bucaramanga
+441,"Aug 07, 2024",24,11,4,Completado,Web,Villavicencio
+442,27/09/2023,244,4,4,Completado,Marketplace,Cali
+443,25-Jul-2023,45,10,4,Pendiente,Tienda,Manizales
+444,13/12/2023,359,3,1,Devuelto,Tienda,Cali
+445,27/06/2025,244,4,2,Completado,Marketplace,Manizales
+446,01-07-2025,115,3,3,Cancelado,Marketplace,Pereira
+447,16/04/2024,175,7,1,Completado,Web,Pereira
+448,06-29-2025,303,18,2,Completado,Web,Bucaramanga
+449,2024-11-13,114,4,4,Completado,Web,Bucaramanga
+450,09-Jan-2024,234,5,3,Completado,Marketplace,Bogotá
+451,30/08/2023,294,16,2,Completado,Web,Bogotá
+452,09-09-2023,27,6,4,Completado,Marketplace,Cali
+453,2023-07-27,173,14,4,Completado,Web,Medellín
+454,08/04/2025,50,5,3,Pendiente,Tienda,Cartagena
+455,2023-03-21,75,7,2,Completado,Marketplace,Bogotá
+456,12-24-2024,219,6,1,Completado,Web,Cali
+457,18-May-2025,333,11,4,Completado,Web,Barranquilla
+458,"May 26, 2024",9999,16,3,Completado,Tienda,Pereira
+459,01-29-2023,196,9,4,Completado,Tienda,Medellín
+460,01-06-2025,9999,17,2,Completado,Marketplace,Manizales
+461,"Jan 14, 2024",248,14,3,Completado,Web,Medellín
+462,"Mar 08, 2025",285,18,4,Completado,Marketplace,Ibagué
+463,27-Jul-2025,61,6,2,Completado,Web,Medellín
+464,11-22-2024,106,6,1,Completado,Tienda,Medellín
+465,05-26-2024,187,18,2,Devuelto,Marketplace,Bogotá
+466,"Mar 26, 2025",338,18,4,Completado,Marketplace,Bucaramanga
+467,16-Feb-2024,340,2,2,Completado,Web,Barranquilla
+468,12-30-2024,184,9,2,Completado,Tienda,Ibagué
+469,01-09-2025,43,9,4,Completado,Tienda,Medellín
+470,07-24-2023,289,17,2,Pendiente,Web,Pereira
+471,"Sep 03, 2023",351,18,4,Completado,Tienda,Bucaramanga
+472,15-Jan-2024,194,8,4,Pendiente,Tienda,Cali
+473,04-28-2024,293,10,3,Completado,Tienda,Cali
+474,"Feb 07, 2024",283,13,4,Completado,Tienda,Ibagué
+475,11-Aug-2025,291,9,1,Completado,Web,Barranquilla
+476,06-Mar-2025,142,14,2,Completado,Tienda,Cartagena
+477,2024-01-27,85,2,1,Completado,Web,Bogotá
+478,17/03/2024,347,18,1,Completado,Tienda,Bogotá
+479,07-16-2025,351,2,4,Completado,Marketplace,Barranquilla
+480,2023-05-10,181,2,4,Completado,Web,Medellín
+481,07-01-2023,248,10,3,Completado,Marketplace,Villavicencio
+482,10-20-2023,30,12,1,Completado,Web,Bucaramanga
+483,23-Jan-2023,96,13,3,Completado,Web,Barranquilla
+484,2024-12-15,79,14,1,Completado,Tienda,Cartagena
+485,08-09-2024,187,14,2,Pendiente,Tienda,Manizales
+486,05-Aug-2025,102,4,2,Completado,Web,Pereira
+487,07-28-2025,137,4,4,Completado,Marketplace,Cali
+488,2024-06-04,57,4,1,Completado,Marketplace,Bogotá
+489,04-14-2025,306,1,4,Completado,Web,Medellín
+490,"Jul 09, 2023",59,9,2,Pendiente,Tienda,Manizales
+491,02/09/2024,258,6,2,Completado,Marketplace,Cali
+492,11-27-2023,141,7,2,Completado,Tienda,Medellín
+493,"Aug 12, 2024",269,10,2,Completado,Web,Bogotá
+494,02-11-2024,215,8,3,Completado,Tienda,Bogotá
+495,"May 14, 2025",165,7,3,Completado,Marketplace,Medellín
+496,2023-07-06,343,1,2,Completado,Web,Villavicencio
+497,23/05/2025,45,4,2,Completado,Tienda,Bogotá
+498,"Jan 14, 2023",39,18,3,Completado,Tienda,Ibagué
+499,06-09-2025,282,9,3,Completado,Marketplace,Medellín
+500,20/05/2023,141,5,3,Devuelto,Tienda,Barranquilla
+501,12-Jan-2024,197,18,4,Completado,Tienda,Cali
+502,05-02-2023,112,1,4,Completado,Marketplace,Cartagena
+503,"Jul 05, 2023",88,8,1,Completado,Tienda,Cali
+504,05-06-2023,274,4,1,Completado,Marketplace,Bucaramanga
+505,02-23-2023,210,10,3,Completado,Tienda,Bucaramanga
+506,28-Oct-2024,9,18,1,Completado,Web,Cartagena
+507,20/08/2024,105,13,2,Completado,Marketplace,Pereira
+508,11/09/2023,95,6,2,Completado,Marketplace,Cali
+509,2024-03-01,312,7,1,Completado,Tienda,Manizales
+510,11-05-2023,194,13,1,Pendiente,Marketplace,Bogotá
+511,06-26-2025,322,1,1,Completado,Marketplace,Bucaramanga
+512,2023-08-07,246,15,2,Completado,Tienda,Barranquilla
+513,08-Apr-2024,137,18,1,Pendiente,Tienda,Ibagué
+514,27/02/2024,13,8,4,Completado,Marketplace,Cartagena
+515,"Nov 04, 2024",58,16,2,Completado,Web,Bucaramanga
+516,2023-08-20,61,12,1,Completado,Tienda,Cali
+517,2025-07-18,352,10,3,Pendiente,Web,Manizales
+518,31-Jan-2023,76,11,2,Completado,Web,Medellín
+519,2024-10-23,143,5,1,Devuelto,Tienda,Pereira
+520,22-May-2024,309,11,2,Cancelado,Tienda,Pereira
+521,04-21-2025,197,3,4,Completado,Marketplace,Barranquilla
+522,30/07/2025,2,7,1,Completado,Tienda,Medellín
+523,2023-05-26,72,10,4,Pendiente,Marketplace,Pereira
+524,03-23-2023,71,4,2,Completado,Marketplace,Pereira
+525,17-Jan-2025,245,6,1,Completado,Tienda,Barranquilla
+526,2024-04-02,214,5,2,Completado,Marketplace,Ibagué
+527,27-Jul-2025,356,1,3,Completado,Marketplace,Bogotá
+528,10-15-2023,217,15,3,Completado,Web,Barranquilla
+529,10/06/2023,206,2,2,Completado,Marketplace,Ibagué
+530,01-07-2024,245,11,4,completado,Tienda,Bucaramanga
+531,26/01/2025,15,8,3,Completado,Tienda,Barranquilla
+532,19-Mar-2024,283,7,1,Completado,Marketplace,Villavicencio
+533,"Mar 27, 2025",24,2,3,Cancelado,Tienda,Bucaramanga
+534,09-23-2023,183,5,1,Completado,Marketplace,Ibagué
+535,"May 14, 2025",13,13,4,Pendiente,Tienda,Cartagena
+536,2023-02-19,321,3,2,Completado,Marketplace,Cali
+537,24/05/2024,334,17,3,Pendiente,Web,Cartagena
+538,20/10/2024,123,7,1,Completado,Web,Medellín
+539,2025-06-09,281,3,4,Completado,Tienda,Cartagena
+540,09-Dec-2024,181,3,1,Completado,Web,Cartagena
+541,02-25-2024,187,10,4,Pendiente,Marketplace,Cali
+542,15/06/2025,260,15,3,Pendiente,Marketplace,Bogotá
+543,"Aug 16, 2023",359,18,1,pendiente,Web,Pereira
+544,"Apr 18, 2024",199,15,1,Completado,Marketplace,Ibagué
+545,16-May-2023,206,11,1,Completado,Marketplace,Manizales
+546,"Mar 16, 2024",143,15,1,Completado,Web,Cali
+547,11-29-2024,195,2,3,Completado,Web,Barranquilla
+548,21/02/2024,351,14,3,Completado,Tienda,Cali
+549,"Jul 19, 2023",42,10,4,Completado,Tienda,Cartagena
+550,2023-01-04,153,6,2,Cancelado,Web,Manizales
+551,2023-10-13,293,13,1,Pendiente,Marketplace,Barranquilla
+552,2024-10-23,297,5,3,Devuelto,Marketplace,Bucaramanga
+553,08-05-2025,76,16,3,Pendiente,Marketplace,Pereira
+554,14/04/2025,231,4,1,Completado,Tienda,Pereira
+555,"Apr 13, 2025",108,7,1,Pendiente,Tienda,Cartagena
+556,12-Aug-2025,212,14,3,Pendiente,Web,Ibagué
+557,2023-03-06,284,6,4,Completado,Marketplace,Pereira
+558,08-07-2025,333,1,4,Completado,Marketplace,Ibagué
+559,30-Nov-2023,258,2,3,Completado,Tienda,Manizales
+560,2024-11-05,203,1,3,Completado,Web,Cartagena
+561,2023-02-07,17,1,1,Pendiente,Marketplace,Villavicencio
+562,31/07/2025,201,7,4,Completado,Marketplace,Pereira
+563,10/05/2024,207,11,2,Completado,Marketplace,Cali
+564,16/01/2025,201,9,2,Completado,Tienda,Bogotá
+565,03-09-2023,41,13,1,Completado,Web,Bucaramanga
+566,07-10-2023,100,18,2,Pendiente,Web,Cartagena
+567,19/04/2024,74,1,1,Completado,Marketplace,Medellín
+568,"May 03, 2023",135,6,1,Completado,Web,Barranquilla
+569,28-Jan-2023,108,14,4,Completado,Web,Cali
+570,05/11/2023,291,2,1,Devuelto,Web,Villavicencio
+571,2024-08-10,131,4,2,Completado,Tienda,Ibagué
+572,26/02/2025,16,11,2,Completado,Marketplace,Cali
+573,"Feb 20, 2025",283,10,4,Pendiente,Web,Ibagué
+574,2024-06-25,53,10,2,Completado,Marketplace,Manizales
+575,21/05/2024,311,13,4,Completado,Web,Medellín
+576,2025-07-19,331,17,3,Completado,Tienda,Bucaramanga
+577,2023-07-23,75,11,1,Completado,Tienda,Bucaramanga
+578,"Jul 22, 2023",288,3,4,Completado,Marketplace,Barranquilla
+579,09-29-2024,312,3,4,Completado,Web,Bucaramanga
+580,26/12/2023,24,9,4,Completado,Tienda,Villavicencio
+581,"Jun 14, 2024",10,1,4,Completado,Web,Bogotá
+582,2023-06-30,9,3,4,Pendiente,Web,Cartagena
+583,07/09/2024,253,2,4,Completado,Web,Manizales
+584,"Aug 12, 2024",53,1,2,Pendiente,Tienda,Medellín
+585,13/03/2025,98,12,1,Completado,Tienda,Cartagena
+586,19/12/2023,156,3,3,Completado,Web,Cartagena
+587,01-06-2025,65,11,2,Completado,Web,Manizales
+588,09-22-2024,124,16,4,Completado,Marketplace,Manizales
+589,27/04/2025,43,12,2,Completado,Tienda,Medellín
+590,20/07/2025,109,1,2,Pendiente,Tienda,Manizales
+591,01/06/2023,303,17,3,Cancelado,Marketplace,Manizales
+592,"Jun 04, 2023",187,13,4,Completado,Tienda,Pereira
+593,21-Aug-2023,352,10,1,Completado,Tienda,Medellín
+594,14-Jul-2023,15,16,4,Completado,Marketplace,Medellín
+595,09-Sep-2024,261,11,1,Completado,Tienda,Bogotá
+596,2023-06-28,142,17,4,Completado,Marketplace,Bogotá
+597,10-22-2023,19,9,2,Completado,Web,Barranquilla
+598,"May 23, 2025",106,6,2,Completado,Marketplace,Villavicencio
+599,08/12/2024,319,16,3,Cancelado,Tienda,Cali
+600,03-11-2025,73,1,4,Completado,Tienda,Cartagena
+601,19/08/2023,5,12,4,Completado,Tienda,Manizales
+602,"Aug 21, 2023",291,10,2,Completado,Tienda,Medellín
+603,2024-03-13,172,15,4,Completado,Marketplace,Cartagena
+604,06-03-2024,266,16,1,Completado,Marketplace,Bogotá
+605,"Feb 05, 2023",183,16,1,Completado,Marketplace,Pereira
+606,2024-02-11,56,9,4,Completado,Web,Bucaramanga
+607,2025-07-18,22,17,3,Completado,Web,Manizales
+608,"Jul 18, 2024",239,5,3,Completado,Tienda,Cartagena
+609,16-Feb-2023,304,4,1,Completado,Web,Bucaramanga
+610,"Jul 11, 2023",71,12,3,Pendiente,Marketplace,Ibagué
+611,"Sep 13, 2024",101,14,1,Completado,Web,Bucaramanga
+612,2025-03-17,205,4,3,completado,Web,Cali
+613,21-Feb-2025,214,18,2,Completado,Web,Villavicencio
+614,06/04/2025,356,11,3,Completado,Web,Pereira
+615,29/04/2025,155,8,3,Completado,Marketplace,Cartagena
+616,2024-01-26,207,1,4,Completado,Marketplace,Manizales
+617,2023-04-12,139,4,3,Completado,Web,Villavicencio
+618,2024-05-18,28,7,2,Completado,Web,Cali
+619,"Jun 09, 2023",322,10,1,Completado,Marketplace,Barranquilla
+620,04-13-2023,79,4,1,Completado,Web,Bogotá
+621,22-Oct-2024,280,9,4,Completado,Tienda,Pereira
+622,16-Aug-2023,337,8,2,Completado,Marketplace,Barranquilla
+623,25-Nov-2024,342,9,4,Completado,Tienda,Manizales
+624,09/10/2024,6,10,1,Completado,Marketplace,Villavicencio
+625,2024-12-24,82,12,2,Cancelado,Marketplace,Pereira
+626,"May 29, 2025",78,12,3,Completado,Tienda,Cartagena
+627,"Nov 13, 2024",311,6,3,Completado,Marketplace,Villavicencio
+628,08-03-2025,82,8,1,Completado,Marketplace,Manizales
+629,06-30-2024,197,14,1,Completado,Tienda,Bogotá
+630,"Mar 09, 2025",311,1,2,Completado,Web,Pereira
+631,04/05/2024,101,9,4,Completado,Tienda,Barranquilla
+632,"Nov 29, 2023",299,1,1,Completado,Tienda,Bogotá
+633,02-10-2025,350,17,4,Pendiente,Marketplace,Manizales
+634,15/05/2023,219,13,1,Completado,Marketplace,Cartagena
+635,03/08/2023,119,2,3,Completado,Web,Cartagena
+636,08/12/2024,124,17,3,Completado,Marketplace,Medellín
+637,26/05/2023,172,2,2,Completado,Marketplace,Bucaramanga
+638,30-Jul-2025,38,2,3,Cancelado,Marketplace,Villavicencio
+639,2023-01-18,67,9,1,Completado,Marketplace,Barranquilla
+640,11-Feb-2025,14,7,4,Completado,Tienda,Ibagué
+641,10-27-2023,282,5,1,Completado,Marketplace,Bucaramanga
+642,06-07-2023,48,1,2,Completado,Marketplace,Villavicencio
+643,27-Jul-2024,128,2,1,Completado,Tienda,Cartagena
+644,07/06/2023,309,8,3,Completado,Web,Medellín
+645,07-02-2023,279,7,4,Completado,Web,Barranquilla
+646,2024-02-19,137,11,1,Completado,Web,Villavicencio
+647,22/01/2024,284,7,1,Completado,Tienda,Bogotá
+648,20-Apr-2025,59,1,4,Completado,Web,Villavicencio
+649,12/12/2023,196,13,4,Completado,Web,Cali
+650,2024-01-16,312,11,3,Completado,Tienda,Bogotá
+651,"Jul 10, 2025",30,4,4,Cancelado,Web,Ibagué
+652,"Sep 06, 2023",240,8,2,Completado,Marketplace,Cartagena
+653,04/06/2025,152,11,4,Completado,Web,Cartagena
+654,2023-03-10,339,11,3,Completado,Web,Bogotá
+655,2024-06-28,210,2,1,Pendiente,Marketplace,Bucaramanga
+656,"Oct 06, 2023",133,9,3,Completado,Tienda,Cali
+657,"Dec 01, 2024",59,2,2,Completado,Web,Villavicencio
+658,2023-10-10,133,9,1,Pendiente,Web,Ibagué
+659,27/04/2025,180,4,1,Completado,Marketplace,Medellín
+660,"Jan 07, 2023",349,14,1,Completado,Web,Cali
+661,11-16-2024,185,11,4,Completado,Web,Cartagena
+662,23-Aug-2023,23,10,2,Completado,Tienda,Villavicencio
+663,2023-11-09,261,12,2,Pendiente,Tienda,Cali
+664,30-Oct-2024,281,14,1,Pendiente,Tienda,Villavicencio
+665,28/11/2023,151,8,3,Pendiente,Web,Barranquilla
+666,2023-01-14,186,3,3,Completado,Web,Manizales
+667,"Aug 14, 2023",65,18,2,Cancelado,Marketplace,Villavicencio
+668,"Jun 28, 2023",161,4,1,Completado,Tienda,Villavicencio
+669,2024-11-07,9999,18,4,Completado,Tienda,Pereira
+670,06-04-2024,38,5,4,Completado,Tienda,Pereira
+671,"Nov 10, 2024",173,4,1,Completado,Web,Manizales
+672,23-Aug-2023,94,17,1,Pendiente,Marketplace,Villavicencio
+673,"Apr 28, 2025",91,17,3,Completado,Web,Manizales
+674,11-03-2024,219,10,3,Completado,Tienda,Cali
+675,2024-01-31,108,14,3,Pendiente,Web,Medellín
+676,11-18-2023,225,8,2,Cancelado,Web,Villavicencio
+677,"Mar 20, 2025",143,5,1,Completado,Marketplace,Cali
+678,02-16-2023,277,18,2,Completado,Tienda,Bucaramanga
+679,11-23-2023,228,17,2,Completado,Tienda,Medellín
+680,2024-08-05,60,12,1,Pendiente,Marketplace,Medellín
+681,29/03/2025,263,3,3,Cancelado,Web,Medellín
+682,2024-10-03,322,1,2,Completado,Tienda,Barranquilla
+683,2024-01-13,145,5,2,Pendiente,Marketplace,Barranquilla
+684,03-14-2024,252,18,2,Completado,Web,Cartagena
+685,2023-03-15,93,10,2,Completado,Web,Manizales
+686,08-02-2024,148,14,4,Completado,Web,Medellín
+687,"Dec 04, 2023",178,13,2,Pendiente,Web,Villavicencio
+688,2023-10-06,32,18,3,Completado,Web,Pereira
+689,2024-08-06,174,2,3,completado,Marketplace,Cali
+690,"Aug 13, 2024",169,5,1,Completado,Web,Medellín
+691,29/08/2024,108,12,2,Pendiente,Web,Barranquilla
+692,08-28-2024,128,1,1,Completado,Marketplace,Medellín
+693,06-Apr-2024,353,8,1,Completado,Web,Pereira
+694,05-23-2024,38,17,4,Completado,Marketplace,Villavicencio
+695,04/04/2025,100,10,3,Completado,Tienda,Cartagena
+696,"Mar 03, 2023",242,13,3,Completado,Web,Ibagué
+697,2025-04-02,196,1,4,Completado,Web,Ibagué
+698,10/04/2025,296,1,4,completado,Web,Manizales
+699,01-19-2023,171,5,1,Completado,Tienda,Manizales
+700,"Jun 22, 2023",243,17,2,Completado,Web,Pereira
+701,2023-06-12,290,14,1,Completado,Marketplace,Manizales
+702,14-Mar-2023,285,3,1,Completado,Web,Cali
+703,"Jun 06, 2025",63,6,2,Pendiente,Tienda,Bogotá
+704,09/04/2023,215,13,1,Completado,Web,Cartagena
+705,2025-01-16,149,17,2,Completado,Marketplace,Bucaramanga
+706,06-03-2023,70,6,4,Completado,Tienda,Cali
+707,17/03/2023,276,15,3,Completado,Web,Villavicencio
+708,08/08/2024,116,12,1,Completado,Web,Pereira
+709,"Feb 08, 2025",329,7,1,Completado,Marketplace,Barranquilla
+710,16-Jul-2025,301,13,3,Completado,Marketplace,Villavicencio
+711,"Feb 18, 2024",2,8,2,Cancelado,Marketplace,Cali
+712,28-Jun-2024,40,2,2,Pendiente,Web,Manizales
+713,"Oct 24, 2024",194,13,4,Completado,Marketplace,Bucaramanga
+714,2024-02-20,86,9,2,Completado,Web,Manizales
+715,02-Aug-2024,92,1,3,Completado,Marketplace,Bucaramanga
+716,30/04/2024,6,7,4,Completado,Tienda,Villavicencio
+717,17/03/2023,311,9,1,Completado,Web,Pereira
+718,"Mar 12, 2024",130,9,1,Pendiente,Marketplace,Manizales
+719,"Jul 03, 2025",190,1,2,Completado,Tienda,Medellín
+720,2023-08-25,279,9,2,Completado,Tienda,Bucaramanga
+721,28-Mar-2025,8,13,4,Completado,Tienda,Medellín
+722,27/02/2025,43,6,4,Completado,Tienda,Ibagué
+723,"May 16, 2023",61,11,4,Pendiente,Tienda,Villavicencio
+724,"Oct 29, 2024",303,1,2,Completado,Marketplace,Bucaramanga
+725,2024-11-22,68,10,1,Completado,Tienda,Cartagena
+726,04-16-2024,97,9,2,Devuelto,Web,Manizales
+727,13-Dec-2024,329,17,4,Completado,Tienda,Bogotá
+728,27-Jun-2024,350,10,2,Completado,Marketplace,Ibagué
+729,"Sep 28, 2024",134,2,1,Completado,Tienda,Manizales
+730,26-Oct-2024,289,13,1,Completado,Marketplace,Bucaramanga
+731,03-06-2024,244,11,3,Cancelado,Tienda,Bucaramanga
+732,31/08/2023,316,15,4,Completado,Tienda,Cartagena
+733,08-Oct-2024,21,8,1,Completado,Web,Villavicencio
+734,07-10-2025,269,7,2,Completado,Tienda,Medellín
+735,2023-07-27,1,5,2,Completado,Web,Medellín
+736,2024-09-09,126,5,3,Completado,Web,Medellín
+737,"Oct 07, 2024",238,8,1,Completado,Tienda,Pereira
+738,12-03-2023,274,3,3,Completado,Marketplace,Bogotá
+739,2023-07-12,186,11,1,Completado,Web,Medellín
+740,08-Jun-2024,109,10,4,Completado,Marketplace,Cali
+741,10-14-2024,216,6,2,Completado,Tienda,Manizales
+742,06/07/2023,52,13,1,Completado,Marketplace,Ibagué
+743,08/05/2023,28,10,4,Completado,Tienda,Villavicencio
+744,16/02/2023,92,14,4,Completado,Tienda,Bogotá
+745,04-May-2023,233,14,1,Completado,Tienda,Manizales
+746,03-12-2023,346,10,1,Completado,Web,Bucaramanga
+747,2025-05-12,183,2,4,Completado,Marketplace,Medellín
+748,03-04-2025,221,9,3,Completado,Tienda,Ibagué
+749,"May 12, 2024",327,4,4,Devuelto,Tienda,Bucaramanga
+750,10-06-2023,335,3,4,Pendiente,Marketplace,Cartagena
+751,"Jul 30, 2024",192,16,2,Cancelado,Web,Cali
+752,03-29-2025,348,10,3,Completado,Tienda,Pereira
+753,2024-05-06,326,11,1,Completado,Marketplace,Bucaramanga
+754,2024-12-29,312,15,4,Completado,Marketplace,Pereira
+755,02/01/2023,237,16,2,Completado,Marketplace,Pereira
+756,06-Mar-2024,250,18,3,Completado,Marketplace,Bucaramanga
+757,"Apr 20, 2024",80,6,3,Completado,Tienda,Cartagena
+758,11-10-2023,203,7,2,Completado,Tienda,Cali
+759,"Jul 11, 2024",186,4,3,Completado,Web,Barranquilla
+760,"May 23, 2024",2,18,3,Completado,Tienda,Medellín
+761,01-Nov-2023,317,8,2,Completado,Tienda,Villavicencio
+762,03-Apr-2024,351,3,3,Completado,Marketplace,Pereira
+763,04-05-2024,123,6,4,Cancelado,Web,Cali
+764,2025-06-25,126,15,2,Completado,Web,Ibagué
+765,05/03/2024,82,8,4,Devuelto,Tienda,Bogotá
+766,01-30-2024,62,18,1,Completado,Marketplace,Bogotá
+767,2024-03-12,262,15,4,Completado,Tienda,Cartagena
+768,09-21-2023,188,14,3,Cancelado,Web,Barranquilla
+769,2023-02-03,252,8,3,Completado,Web,Bucaramanga
+770,21/02/2024,268,10,1,Pendiente,Marketplace,Bucaramanga
+771,12-28-2023,244,15,3,Completado,Marketplace,Cali
+772,16/12/2024,327,8,1,Completado,Web,Cali
+773,26/04/2024,261,17,4,Completado,Tienda,Bucaramanga
+774,08-Feb-2023,192,13,4,completado,Marketplace,Manizales
+775,"Jan 26, 2025",34,11,2,Completado,Tienda,Cartagena
+776,06-Oct-2023,183,16,4,Cancelado,Tienda,Ibagué
+777,12-Mar-2024,17,13,1,Completado,Web,Ibagué
+778,"Jul 10, 2023",291,17,2,Completado,Marketplace,Cali
+779,2024-03-27,91,2,3,Completado,Marketplace,Barranquilla
+780,23-Apr-2023,156,2,2,Completado,Marketplace,Manizales
+781,10-27-2024,60,15,1,Completado,Marketplace,Villavicencio
+782,21-May-2023,5,14,1,Pendiente,Marketplace,Barranquilla
+783,"Dec 13, 2024",169,17,4,Completado,Marketplace,Cartagena
+784,08-17-2023,258,10,4,Devuelto,Tienda,Manizales
+785,2023-07-30,241,16,2,Completado,Web,Cartagena
+786,12-12-2024,327,18,2,Completado,Tienda,Barranquilla
+787,"Aug 30, 2024",351,10,2,Completado,Web,Cali
+788,2025-01-06,340,6,3,Devuelto,Marketplace,Villavicencio
+789,07-03-2023,157,11,3,Completado,Web,Cartagena
+790,2023-12-25,331,5,4,Completado,Marketplace,Barranquilla
+791,15-Jun-2023,192,1,3,Pendiente,Web,Ibagué
+792,"Jun 14, 2023",141,4,1,Completado,Marketplace,Manizales
+793,28/02/2024,311,13,1,Completado,Web,Cartagena
+794,03-12-2024,38,11,4,Completado,Tienda,Villavicencio
+795,2023-08-29,168,18,3,Completado,Web,Bogotá
+796,05-23-2025,161,12,4,Pendiente,Tienda,Bucaramanga
+797,09-20-2024,131,1,2,Completado,Web,Pereira
+798,27-Jul-2025,17,17,3,Completado,Web,Villavicencio
+799,27-Sep-2024,286,4,2,Completado,Tienda,Villavicencio
+800,10-May-2025,232,5,3,Completado,Marketplace,Bucaramanga
+801,02-20-2025,4,13,1,Completado,Web,Cali
+802,"Sep 18, 2024",335,7,3,Pendiente,Marketplace,Cali
+803,12-24-2023,52,1,1,Completado,Web,Medellín
+804,"Feb 28, 2024",84,14,3,Cancelado,Tienda,Bucaramanga
+805,09-11-2023,64,13,1,Pendiente,Marketplace,Barranquilla
+806,12-05-2023,64,3,2,Cancelado,Marketplace,Ibagué
+807,06-14-2025,62,16,3,Devuelto,Web,Barranquilla
+808,02/02/2025,131,17,1,Completado,Web,Pereira
+809,11-11-2023,118,3,4,Completado,Web,Bucaramanga
+810,2025-03-15,91,1,2,Completado,Marketplace,Manizales
+811,03-21-2025,108,10,3,Completado,Tienda,Pereira
+812,2024-09-18,343,6,3,Cancelado,Tienda,Bogotá
+813,10-Feb-2024,15,1,3,Pendiente,Tienda,Cali
+814,08-Aug-2025,52,1,3,Completado,Web,Medellín
+815,26/08/2024,213,18,4,Pendiente,Marketplace,Bogotá
+816,10-Feb-2025,277,12,1,Completado,Marketplace,Barranquilla
+817,09-06-2023,116,3,1,Completado,Marketplace,Medellín
+818,10-Oct-2023,338,10,3,Devuelto,Marketplace,Villavicencio
+819,04-06-2024,297,2,4,Completado,Tienda,Cali
+820,20-Aug-2023,18,8,2,Completado,Marketplace,Manizales
+821,06-21-2025,319,9,4,Completado,Marketplace,Ibagué
+822,"Jun 17, 2025",234,4,3,Completado,Tienda,Bucaramanga
+823,2023-09-28,62,18,3,Pendiente,Web,Manizales
+824,22-Jun-2024,349,8,1,Completado,Web,Ibagué
+825,25/06/2023,273,12,2,Cancelado,Marketplace,Cali
+826,2023-08-18,317,8,2,Cancelado,Marketplace,Pereira
+827,08-30-2024,200,17,4,completado,Web,Cali
+828,"May 27, 2024",160,7,1,Completado,Tienda,Cali
+829,12-May-2023,100,8,3,Completado,Web,Cali
+830,"Jan 10, 2025",73,9,3,Completado,Marketplace,Cartagena
+831,10/01/2025,9999,8,4,Pendiente,Marketplace,Villavicencio
+832,12-Aug-2024,58,15,4,Completado,Marketplace,Manizales
+833,19-Oct-2024,307,12,2,pendiente,Web,Pereira
+834,08-19-2024,328,17,3,Completado,Web,Bucaramanga
+835,13/04/2023,249,8,4,Completado,Marketplace,Cartagena
+836,2023-06-11,288,13,4,Completado,Marketplace,Medellín
+837,09-Jan-2023,185,14,4,Completado,Web,Manizales
+838,01/04/2024,14,7,2,Completado,Web,Medellín
+839,04/03/2023,350,12,3,Completado,Tienda,Bucaramanga
+840,"Apr 28, 2023",165,13,3,Pendiente,Web,Medellín
+841,2025-02-18,157,4,1,Completado,Marketplace,Manizales
+842,05-05-2024,249,12,3,Completado,Web,Cali
+843,05-Nov-2023,298,10,3,Completado,Tienda,Pereira
+844,23/12/2023,47,13,3,Completado,Marketplace,Bucaramanga
+845,"Oct 21, 2023",166,8,4,Completado,Marketplace,Cali
+846,01-15-2024,116,15,2,Completado,Tienda,Bogotá
+847,28-Apr-2024,266,13,4,Completado,Web,Cartagena
+848,16/05/2023,69,11,2,Completado,Tienda,Medellín
+849,08/02/2023,360,18,2,Completado,Tienda,Manizales
+850,2023-01-11,287,2,3,Pendiente,Tienda,Medellín
+851,11-06-2023,15,16,4,Completado,Tienda,Pereira
+852,"Aug 03, 2024",357,10,3,Completado,Marketplace,Pereira
+853,05-18-2025,4,2,3,Completado,Tienda,Villavicencio
+854,2024-01-26,83,7,2,Completado,Tienda,Cali
+855,01-Jun-2023,62,11,1,Cancelado,Marketplace,Pereira
+856,17-Aug-2023,182,6,4,Completado,Tienda,Cali
+857,2023-02-25,42,11,4,Completado,Web,Bogotá
+858,05-25-2023,350,12,1,Completado,Marketplace,Bogotá
+859,20/04/2023,157,1,3,Completado,Tienda,Barranquilla
+860,2025-03-08,192,6,4,Pendiente,Tienda,Ibagué
+861,"Jul 28, 2023",276,4,3,Completado,Web,Cali
+862,"Dec 08, 2023",80,11,4,Completado,Web,Manizales
+863,06-04-2025,34,11,2,Completado,Web,Barranquilla
+864,25-Jun-2024,267,3,3,Completado,Marketplace,Ibagué
+865,06/02/2024,150,14,4,Completado,Web,Bogotá
+866,05-Dec-2023,148,2,1,Cancelado,Web,Villavicencio
+867,"Dec 12, 2023",274,1,1,Completado,Web,Ibagué
+868,03-Jan-2023,261,17,2,Completado,Marketplace,Bogotá
+869,2024-03-16,164,3,2,Completado,Marketplace,Villavicencio
+870,02-Aug-2025,106,4,3,Cancelado,Marketplace,Bucaramanga
+871,16/09/2024,23,5,2,Completado,Marketplace,Cartagena
+872,03-12-2023,140,14,1,pendiente,Web,Cartagena
+873,12-23-2024,321,13,1,Completado,Tienda,Barranquilla
+874,07-19-2024,60,6,4,Completado,Web,Cali
+875,07-13-2023,147,10,3,Completado,Web,Barranquilla
+876,12-13-2024,103,5,1,Completado,Tienda,Barranquilla
+877,"Feb 11, 2024",43,3,2,Completado,Web,Cali
+878,2023-08-15,23,1,2,Pendiente,Web,Cali
+879,16/03/2023,79,10,1,Completado,Tienda,Bucaramanga
+880,14-Aug-2025,83,5,3,Completado,Tienda,Pereira
+881,07-17-2024,87,11,3,Completado,Tienda,Barranquilla
+882,19/02/2023,289,2,4,Completado,Tienda,Bogotá
+883,31/10/2023,244,13,3,Completado,Web,Barranquilla
+884,"Jul 15, 2023",275,12,2,Completado,Marketplace,Cali
+885,11/06/2023,22,15,4,Pendiente,Tienda,Pereira
+886,04/02/2023,216,14,4,Completado,Web,Manizales
+887,07-19-2023,272,7,2,Completado,Marketplace,Barranquilla
+888,04-13-2024,110,13,2,Completado,Marketplace,Manizales
+889,07-07-2023,283,6,4,completado,Web,Bogotá
+890,21/02/2024,140,5,4,Pendiente,Tienda,Cali
+891,2024-11-02,314,17,1,Completado,Tienda,Medellín
+892,01-20-2023,170,3,3,Cancelado,Tienda,Cali
+893,"Aug 26, 2023",162,15,4,Completado,Web,Cartagena
+894,01-Jan-2025,78,6,4,Completado,Marketplace,Pereira
+895,01-Mar-2024,359,9,2,Completado,Tienda,Manizales
+896,"Jan 29, 2025",196,16,4,Completado,Tienda,Villavicencio
+897,11-Mar-2025,252,12,3,Pendiente,Tienda,Cali
+898,2025-05-01,77,4,2,Completado,Marketplace,Medellín
+899,03-Feb-2023,87,12,3,Completado,Marketplace,Bogotá
+900,03-21-2025,230,14,3,Completado,Marketplace,Manizales
+901,28/12/2024,17,5,1,Completado,Web,Pereira
+902,08-05-2024,356,9,4,Completado,Marketplace,Pereira
+903,26-Jan-2024,251,10,3,Cancelado,Marketplace,Medellín
+904,21/02/2023,39,6,3,Completado,Tienda,Medellín
+905,2025-06-26,7,11,1,Completado,Web,Bucaramanga
+906,"Oct 24, 2024",29,5,2,Completado,Tienda,Cali
+907,03-24-2024,2,14,2,Completado,Tienda,Pereira
+908,"Mar 07, 2023",254,6,4,Completado,Marketplace,Bogotá
+909,27/09/2023,278,7,1,Completado,Tienda,Cali
+910,02-08-2023,308,14,3,Completado,Web,Barranquilla
+911,08-01-2023,129,10,2,Completado,Web,Bucaramanga
+912,01/03/2023,41,15,1,Completado,Web,Villavicencio
+913,22-Aug-2023,135,11,4,Completado,Web,Bucaramanga
+914,03-23-2025,88,2,3,Completado,Web,Bucaramanga
+915,18/02/2023,13,5,3,Devuelto,Marketplace,Cali
+916,15-Jun-2023,112,4,1,Completado,Web,Bucaramanga
+917,09-16-2024,156,18,3,Completado,Marketplace,Manizales
+918,"Mar 08, 2024",166,16,3,Completado,Web,Barranquilla
+919,13/12/2023,351,14,1,Completado,Web,Bucaramanga
+920,04-04-2024,10,15,3,Completado,Web,Barranquilla
+921,17/01/2025,170,7,2,Pendiente,Marketplace,Barranquilla
+922,23/07/2023,10,11,1,Completado,Marketplace,Bucaramanga
+923,17-May-2023,237,9,1,Completado,Tienda,Cartagena
+924,06-Jun-2023,115,1,3,Pendiente,Web,Ibagué
+925,23/03/2025,310,18,2,Pendiente,Tienda,Villavicencio
+926,10/01/2023,32,7,3,Pendiente,Web,Bogotá
+927,17/01/2023,334,14,1,Completado,Tienda,Manizales
+928,"Dec 05, 2023",142,7,4,Completado,Tienda,Bucaramanga
+929,2024-08-10,168,18,4,Completado,Marketplace,Pereira
+930,09/08/2023,331,11,4,Completado,Tienda,Cartagena
+931,2025-06-17,68,16,1,Completado,Tienda,Medellín
+932,2023-08-24,183,11,1,Completado,Tienda,Manizales
+933,13/08/2023,281,3,2,Completado,Web,Barranquilla
+934,"Sep 17, 2023",13,2,2,Completado,Tienda,Barranquilla
+935,"Apr 24, 2024",199,13,1,Completado,Web,Bogotá
+936,2023-03-11,299,16,1,Completado,Marketplace,Bucaramanga
+937,"Nov 17, 2024",4,10,3,Completado,Web,Cali
+938,"Mar 13, 2025",168,9,4,Completado,Web,Bogotá
+939,2024-01-09,22,13,1,Cancelado,Tienda,Barranquilla
+940,"Mar 24, 2024",238,2,2,Pendiente,Web,Barranquilla
+941,"May 26, 2023",111,6,3,Completado,Marketplace,Pereira
+942,16-Sep-2024,288,10,2,Completado,Tienda,Bogotá
+943,12-22-2023,1,10,4,Completado,Tienda,Medellín
+944,2023-09-13,331,7,4,Pendiente,Tienda,Cartagena
+945,06-27-2023,234,7,1,Completado,Marketplace,Bogotá
+946,10-19-2024,356,18,3,Completado,Marketplace,Manizales
+947,2023-08-04,79,7,1,Completado,Tienda,Bogotá
+948,22/03/2023,33,9,3,Completado,Web,Bogotá
+949,21/07/2025,23,14,4,Completado,Marketplace,Bogotá
+950,22-Jan-2025,279,6,3,Cancelado,Marketplace,Ibagué
+951,07-23-2024,209,6,4,Completado,Web,Cartagena
+952,"Apr 15, 2025",209,12,4,Completado,Tienda,Bucaramanga
+953,24/06/2023,22,11,2,Completado,Marketplace,Cali
+954,30/01/2023,215,4,1,Completado,Tienda,Cartagena
+955,05/10/2023,172,16,1,Completado,Web,Ibagué
+956,17/02/2023,353,4,2,Completado,Tienda,Barranquilla
+957,07-07-2024,254,5,1,Devuelto,Tienda,Pereira
+958,2024-04-14,9,1,3,Completado,Marketplace,Medellín
+959,29-Mar-2025,61,14,3,Completado,Marketplace,Villavicencio
+960,2025-04-08,318,16,1,Completado,Tienda,Manizales
+961,"Apr 04, 2023",276,4,4,Completado,Web,Manizales
+962,04/01/2025,250,3,4,Completado,Tienda,Barranquilla
+963,17/06/2023,173,8,4,Completado,Marketplace,Manizales
+964,2023-10-27,351,5,1,Completado,Tienda,Ibagué
+965,06-21-2025,199,18,1,Completado,Marketplace,Ibagué
+966,"Mar 01, 2023",219,4,2,Completado,Web,Manizales
+967,"Apr 13, 2025",91,13,1,Completado,Web,Villavicencio
+968,07-27-2025,68,1,4,Completado,Marketplace,Pereira
+969,07-Nov-2024,356,12,1,Completado,Web,Pereira
+970,2024-04-18,260,8,2,Completado,Tienda,Villavicencio
+971,"May 01, 2025",280,12,3,Completado,Marketplace,Cali
+972,"Oct 19, 2024",360,13,1,Completado,Tienda,Medellín
+973,11-25-2023,125,16,2,Completado,Web,Manizales
+974,2024-02-28,325,18,1,Completado,Marketplace,Cali
+975,29-Sep-2024,38,6,2,Completado,Marketplace,Bucaramanga
+976,01/06/2025,22,11,4,Completado,Marketplace,Bucaramanga
+977,08-05-2025,209,6,2,Completado,Web,Medellín
+978,"Feb 21, 2023",329,2,3,Completado,Web,Bucaramanga
+979,04-Jan-2024,250,13,2,Completado,Marketplace,Manizales
+980,21-Aug-2023,323,9,3,Completado,Marketplace,Barranquilla
+981,"Jun 12, 2025",99,11,4,Completado,Web,Barranquilla
+982,"Jun 07, 2023",352,12,3,Pendiente,Marketplace,Ibagué
+983,06/10/2024,327,8,2,Pendiente,Web,Cali
+984,14-Dec-2023,276,11,2,Completado,Web,Medellín
+985,2025-06-12,282,9,4,Completado,Web,Manizales
+986,04/07/2023,199,11,1,Completado,Web,Bogotá
+987,21-Nov-2023,56,18,3,Pendiente,Marketplace,Pereira
+988,11-Feb-2023,6,4,3,Completado,Web,Pereira
+989,03-11-2025,293,9,3,Completado,Tienda,Ibagué
+990,"Jan 30, 2024",9,6,1,Completado,Web,Manizales
+991,15-Feb-2025,209,8,2,Completado,Tienda,Barranquilla
+992,10-16-2023,297,13,4,Completado,Tienda,Pereira
+993,25-Jul-2025,140,7,4,Pendiente,Marketplace,Bucaramanga
+994,12/01/2025,311,7,3,Completado,Marketplace,Pereira
+995,"Sep 11, 2023",181,13,3,Completado,Tienda,Pereira
+996,13/09/2023,12,13,3,Completado,Web,Pereira
+997,07-Apr-2024,134,16,2,Completado,Marketplace,Ibagué
+998,2025-02-26,118,3,2,Completado,Marketplace,Bogotá
+999,24/03/2025,73,14,3,Cancelado,Tienda,Pereira
+1000,13/04/2023,27,6,3,Completado,Web,Cali
+1001,2023-03-28,40,3,1,Pendiente,Tienda,Ibagué
+1002,2023-02-18,189,6,2,Cancelado,Tienda,Bogotá
+1003,"Jun 27, 2024",30,13,2,Completado,Tienda,Cali
+1004,2024-06-09,237,8,4,Completado,Marketplace,Barranquilla
+1005,08-30-2023,194,5,1,Completado,Web,Pereira
+1006,05-Dec-2024,208,9,4,Completado,Web,Cali
+1007,01-Mar-2024,308,12,3,Completado,Web,Pereira
+1008,2023-02-21,223,5,4,Completado,Marketplace,Cali
+1009,2024-04-10,130,16,4,Completado,Web,Barranquilla
+1010,"Jun 02, 2025",192,2,3,Cancelado,Marketplace,Pereira
+1011,2023-10-26,182,17,4,Cancelado,Web,Medellín
+1012,28/03/2025,9999,5,3,Completado,Tienda,Ibagué
+1013,04/09/2024,178,11,3,Completado,Marketplace,Villavicencio
+1014,2023-12-27,222,17,1,Completado,Marketplace,Villavicencio
+1015,24-Aug-2024,170,15,3,Completado,Tienda,Medellín
+1016,09-24-2024,100,14,2,Pendiente,Tienda,Pereira
+1017,12-12-2024,248,3,2,Cancelado,Tienda,Manizales
+1018,02-Jul-2023,236,11,3,Completado,Web,Villavicencio
+1019,2023-11-22,350,17,3,Completado,Tienda,Barranquilla
+1020,2024-05-20,140,11,3,Devuelto,Web,Bogotá
+1021,26/06/2023,128,15,2,Completado,Marketplace,Ibagué
+1022,"May 26, 2023",154,3,2,Completado,Marketplace,Medellín
+1023,02-02-2024,9999,1,3,Completado,Tienda,Manizales
+1024,13/09/2023,313,6,3,Completado,Marketplace,Pereira
+1025,"Jul 24, 2024",43,1,2,Completado,Tienda,Cali
+1026,06/07/2023,91,2,2,Devuelto,Web,Bucaramanga
+1027,01-22-2023,159,11,1,Devuelto,Tienda,Bogotá
+1028,05-27-2025,201,16,1,Completado,Marketplace,Ibagué
+1029,03/06/2023,71,3,4,Pendiente,Tienda,Ibagué
+1030,"Apr 26, 2023",115,10,1,Pendiente,Marketplace,Cali
+1031,"Jun 30, 2023",215,8,3,Completado,Tienda,Manizales
+1032,11-26-2024,31,4,2,Devuelto,Tienda,Cali
+1033,12-02-2024,353,11,2,Completado,Web,Medellín
+1034,"Aug 28, 2024",81,13,2,Completado,Tienda,Cartagena
+1035,20/05/2025,69,11,4,Completado,Marketplace,Cali
+1036,19/07/2025,213,3,4,Devuelto,Tienda,Bogotá
+1037,2025-01-27,143,7,2,Completado,Tienda,Bucaramanga
+1038,09-Dec-2024,257,7,2,Completado,Marketplace,Ibagué
+1039,16/04/2025,101,14,1,Devuelto,Marketplace,Ibagué
+1040,07-27-2023,209,3,4,Pendiente,Web,Villavicencio
+1041,10-29-2023,136,10,1,Completado,Marketplace,Cartagena
+1042,2024-03-29,204,1,4,Devuelto,Web,Ibagué
+1043,09-Nov-2023,255,7,3,Completado,Tienda,Pereira
+1044,10-May-2025,220,3,3,Completado,Web,Bogotá
+1045,26-May-2024,133,6,3,Completado,Tienda,Pereira
+1046,05-Sep-2024,148,10,1,Devuelto,Tienda,Bogotá
+1047,08-02-2025,232,11,1,Completado,Marketplace,Manizales
+1048,01-13-2023,315,9,1,Pendiente,Web,Cali
+1049,2024-04-20,84,5,3,Completado,Marketplace,Ibagué
+1050,03/04/2025,175,13,4,Pendiente,Web,Barranquilla
+1051,01-11-2023,301,3,2,Completado,Web,Ibagué
+1052,"Sep 20, 2024",97,1,3,Devuelto,Web,Bucaramanga
+1053,23-Feb-2025,267,18,1,Completado,Web,Ibagué
+1054,12-01-2024,160,18,4,Completado,Tienda,Bogotá
+1055,15-Mar-2023,144,11,4,Devuelto,Web,Medellín
+1056,02-23-2025,95,3,2,Completado,Marketplace,Medellín
+1057,"Jul 14, 2023",94,7,1,Completado,Web,Ibagué
+1058,05-23-2024,296,18,3,Completado,Web,Medellín
+1059,30/09/2024,27,5,1,Cancelado,Marketplace,Bogotá
+1060,"Feb 11, 2024",241,12,4,Completado,Tienda,Villavicencio
+1061,11/10/2024,333,4,1,Completado,Marketplace,Cali
+1062,13-Jun-2023,209,1,3,Pendiente,Tienda,Manizales
+1063,01-28-2025,342,13,2,Completado,Web,Cali
+1064,29/02/2024,216,9,4,Devuelto,Web,Villavicencio
+1065,02/10/2023,296,6,1,Completado,Marketplace,Bogotá
+1066,"Apr 08, 2024",37,13,2,Completado,Tienda,Villavicencio
+1067,04-30-2024,57,1,4,Completado,Web,Cali
+1068,24/03/2025,167,14,4,Completado,Web,Manizales
+1069,06-13-2023,181,7,2,Completado,Web,Pereira
+1070,03/08/2024,222,15,2,Pendiente,Tienda,Manizales
+1071,"Jan 18, 2023",144,6,4,Completado,Marketplace,Medellín
+1072,"Mar 24, 2023",245,13,3,Completado,Web,Cali
+1073,24-Dec-2023,249,13,2,Completado,Tienda,Medellín
+1074,27/03/2023,140,17,3,Completado,Tienda,Villavicencio
+1075,08-Apr-2025,130,8,2,Completado,Marketplace,Bogotá
+1076,2023-05-18,215,11,1,Completado,Tienda,Cartagena
+1077,10-31-2024,309,12,1,Completado,Tienda,Barranquilla
+1078,09/08/2024,171,16,2,Devuelto,Tienda,Medellín
+1079,04-Jun-2023,119,14,1,Completado,Marketplace,Medellín
+1080,2023-10-20,226,5,2,Completado,Web,Medellín
+1081,03-15-2023,301,14,1,Completado,Web,Barranquilla
+1082,"Aug 04, 2025",314,4,1,Completado,Marketplace,Ibagué
+1083,2023-08-12,278,6,1,Pendiente,Tienda,Pereira
+1084,05-Jun-2023,143,1,4,Completado,Web,Manizales
+1085,11-22-2023,293,1,3,Completado,Tienda,Barranquilla
+1086,14-Feb-2025,101,7,2,Completado,Tienda,Manizales
+1087,16/02/2024,105,12,3,Completado,Tienda,Medellín
+1088,22/03/2024,192,2,2,Pendiente,Web,Medellín
+1089,19/04/2024,38,5,4,Completado,Marketplace,Cali
+1090,"Oct 23, 2024",303,11,4,Pendiente,Marketplace,Ibagué
+1091,26-Jun-2023,228,9,3,Completado,Marketplace,Bogotá
+1092,01-10-2025,239,3,1,Completado,Tienda,Barranquilla
+1093,11/11/2024,203,5,1,Completado,Tienda,Cali
+1094,"Feb 13, 2023",38,8,1,Completado,Tienda,Cartagena
+1095,2024-01-22,252,7,2,Pendiente,Marketplace,Medellín
+1096,12-10-2023,325,18,1,Completado,Web,Cali
+1097,30-Sep-2024,354,1,1,Completado,Marketplace,Villavicencio
+1098,28-Jan-2023,98,16,1,Pendiente,Marketplace,Bucaramanga
+1099,2023-12-14,310,1,2,Completado,Marketplace,Medellín
+1100,19/07/2023,308,18,4,Completado,Tienda,Cali
+1101,2025-01-11,161,13,4,Completado,Web,Bogotá
+1102,17-Aug-2023,2,9,2,Completado,Web,Medellín
+1103,2025-02-17,194,4,2,Completado,Web,Ibagué
+1104,02-14-2023,188,10,2,Completado,Marketplace,Bogotá
+1105,10-Aug-2024,28,14,2,Completado,Marketplace,Ibagué
+1106,22/05/2025,34,2,3,Completado,Tienda,Pereira
+1107,22/12/2024,134,9,2,Cancelado,Web,Barranquilla
+1108,2023-03-07,332,3,4,completado,Marketplace,Medellín
+1109,01/07/2023,152,6,3,Completado,Tienda,Barranquilla
+1110,07/04/2023,54,10,3,Completado,Tienda,Pereira
+1111,2025-03-11,22,6,4,Completado,Marketplace,Bucaramanga
+1112,01-17-2024,12,3,4,Completado,Web,Cartagena
+1113,2024-06-07,56,12,2,Completado,Marketplace,Cali
+1114,12-29-2024,32,11,1,Completado,Tienda,Cartagena
+1115,05/07/2024,100,17,3,Completado,Marketplace,Medellín
+1116,"Jun 09, 2025",233,17,4,Pendiente,Tienda,Ibagué
+1117,"Jul 10, 2024",124,3,2,Completado,Web,Bucaramanga
+1118,"Jul 02, 2024",40,3,4,Devuelto,Web,Medellín
+1119,02-16-2024,107,1,1,Completado,Web,Medellín
+1120,2025-07-04,353,13,3,Completado,Web,Cartagena
+1121,17-Apr-2023,349,7,4,Completado,Web,Cali
+1122,23-Apr-2023,310,3,1,Completado,Marketplace,Cartagena
+1123,12-01-2023,116,8,4,Completado,Tienda,Villavicencio
+1124,23-Jul-2024,81,7,2,Completado,Web,Bucaramanga
+1125,"Mar 01, 2023",151,5,4,Completado,Web,Bogotá
+1126,11-13-2023,24,17,1,Completado,Web,Bogotá
+1127,07/02/2025,267,7,3,Completado,Marketplace,Medellín
+1128,2025-05-07,351,15,1,Cancelado,Tienda,Medellín
+1129,"Feb 13, 2023",27,14,2,Completado,Web,Manizales
+1130,01-Jul-2023,21,4,2,Pendiente,Tienda,Ibagué
+1131,08-Aug-2025,271,5,4,Completado,Marketplace,Bucaramanga
+1132,"Jul 26, 2025",342,12,4,Completado,Marketplace,Bogotá
+1133,28-Mar-2024,294,6,1,Devuelto,Web,Villavicencio
+1134,06/05/2024,320,14,4,Pendiente,Web,Ibagué
+1135,05-01-2025,327,8,2,Completado,Web,Bogotá
+1136,06-17-2024,95,8,3,Completado,Web,Pereira
+1137,"Mar 05, 2025",359,1,4,Completado,Tienda,Manizales
+1138,"Oct 15, 2024",117,17,2,Completado,Marketplace,Bucaramanga
+1139,"Oct 16, 2023",9,10,1,Completado,Web,Medellín
+1140,02-05-2025,175,1,2,Completado,Web,Ibagué
+1141,2025-03-04,282,13,4,Completado,Tienda,Barranquilla
+1142,"Sep 02, 2024",219,4,2,Completado,Marketplace,Bucaramanga
+1143,11/01/2025,77,8,3,Completado,Marketplace,Bogotá
+1144,08-11-2023,115,1,1,Pendiente,Web,Villavicencio
+1145,05/11/2024,42,7,3,Devuelto,Tienda,Bogotá
+1146,25-Apr-2023,29,9,1,Completado,Tienda,Bucaramanga
+1147,"May 25, 2023",91,17,2,Completado,Web,Pereira
+1148,08/04/2025,327,9,3,Pendiente,Web,Manizales
+1149,2023-07-03,207,14,2,Completado,Tienda,Ibagué
+1150,17/07/2023,321,16,4,Completado,Tienda,Villavicencio
+1151,01-18-2023,204,17,3,Devuelto,Tienda,Barranquilla
+1152,2024-12-07,177,13,1,Completado,Tienda,Manizales
+1153,02-16-2023,348,4,1,Completado,Web,Medellín
+1154,17-Jun-2023,163,5,4,Completado,Web,Pereira
+1155,17-Sep-2023,230,3,3,Completado,Tienda,Cali
+1156,2023-08-11,49,14,3,Devuelto,Tienda,Manizales
+1157,"Oct 16, 2023",241,18,1,Completado,Web,Manizales
+1158,07-Jun-2024,328,3,4,Pendiente,Marketplace,Cali
+1159,2025-03-02,134,17,4,Completado,Web,Manizales
+1160,"Apr 03, 2023",279,11,4,Completado,Marketplace,Manizales
+1161,02-Jun-2025,302,18,4,Completado,Tienda,Manizales
+1162,02/04/2024,8,12,1,Completado,Tienda,Cali
+1163,"Apr 25, 2025",346,6,1,Completado,Marketplace,Bucaramanga
+1164,25-Aug-2024,230,4,3,Completado,Marketplace,Medellín
+1165,31-Aug-2024,291,13,4,Completado,Tienda,Ibagué
+1166,12-Oct-2023,280,1,2,Pendiente,Tienda,Bucaramanga
+1167,08-Dec-2024,118,18,4,Completado,Marketplace,Cartagena
+1168,09/04/2023,313,17,1,completado,Web,Manizales
+1169,10/06/2024,279,13,4,Completado,Marketplace,Cali
+1170,24-Apr-2023,141,13,1,Completado,Marketplace,Manizales
+1171,2023-01-21,224,17,4,Pendiente,Tienda,Bucaramanga
+1172,"Aug 13, 2023",273,11,1,Completado,Marketplace,Barranquilla
+1173,"Mar 08, 2024",200,13,3,Completado,Tienda,Bogotá
+1174,22/01/2023,278,6,3,Completado,Web,Cali
+1175,2024-12-24,96,8,2,Completado,Marketplace,Cartagena
+1176,2023-03-05,134,3,3,Completado,Web,Manizales
+1177,23/12/2023,88,13,2,Completado,Web,Ibagué
+1178,04/02/2025,201,12,3,Devuelto,Web,Ibagué
+1179,07-06-2024,250,10,3,Completado,Web,Villavicencio
+1180,18-Jul-2023,296,3,1,Completado,Web,Cali
+1181,10/02/2024,171,8,3,Completado,Web,Barranquilla
+1182,2025-06-12,104,4,2,Completado,Marketplace,Barranquilla
+1183,01-04-2023,24,1,3,Completado,Marketplace,Medellín
+1184,2024-10-08,316,17,1,Completado,Web,Ibagué
+1185,01/12/2023,68,16,1,Completado,Tienda,Ibagué
+1186,04/10/2023,214,2,3,Completado,Marketplace,Pereira
+1187,26-Jun-2025,173,17,3,Pendiente,Web,Ibagué
+1188,09/07/2025,315,10,2,Completado,Marketplace,Medellín
+1189,2024-07-17,171,1,2,Pendiente,Tienda,Bogotá
+1190,08-15-2025,301,8,1,Completado,Tienda,Bucaramanga
+1191,20/07/2024,18,17,2,Completado,Marketplace,Cali
+1192,"Aug 05, 2025",146,17,4,Completado,Marketplace,Manizales
+1193,12-May-2025,230,15,3,Completado,Marketplace,Bogotá
+1194,25-Jun-2023,86,12,3,cancelado,Tienda,Ibagué
+1195,24-Feb-2025,69,7,1,Completado,Tienda,Bogotá
+1196,2023-03-05,47,17,2,Completado,Tienda,Barranquilla
+1197,"Apr 06, 2024",45,15,2,Completado,Web,Manizales
+1198,"Jun 30, 2024",70,13,2,Completado,Tienda,Bucaramanga
+1199,"Jun 17, 2023",233,13,2,Completado,Tienda,Ibagué
+1200,"Feb 13, 2025",241,6,1,Completado,Tienda,Manizales

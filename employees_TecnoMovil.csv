@@ -1,0 +1,19 @@
+employee_id,full_name,role,email,phone,hire_date
+1,Felipe Rodríguez,Vendedor,felipe.rodríguez@yahoo.com,+57 331-4744854,30-Oct-2019
+2,Valentina Rodríguez,Vendedor,valentina.rodríguez@empresa.co,+57 304-1499914,"Mar 02, 2018"
+3,María López,Vendedor,maría.lópez@outlook.com,+57 391-8038374,25-Feb-2020
+4,  Sofía Ramírez  ,Vendedor,sofía.ramírez@gmail.com,+57 397-3678638,09/07/2024
+5,Paula Hernández,Vendedor,paula.hernández@outlook.com,+57 397-6647119,16-Sep-2023
+6,  Luis Díaz  ,Vendedor,luis.díaz@yahoo.com,+57 344-5437923,25-Nov-2018
+7,  Valentina Pérez  ,Vendedor,valentina.pérez@empresa.co,+57 310-5918715,07/01/2024
+8,Sara Gómez,Vendedor,sara.gómez at gmail.com,+57 305-4823498,2023-07-03
+9,Luis López,Vendedor,luis.lópez@empresa.co,,20/04/2024
+10,  Carlos Gómez  ,Vendedor,carlos.gómez@outlook.com,+57 385-5479144,09-11-2022
+11,Lucía Flores,Vendedor,lucía.flores at outlook.com,+57 320-8755439,15/04/2020
+12,Jorge Flores,Vendedor,jorge.flores@yahoo.com,,2023-03-15
+13,Juan García,Vendedor,juan.garcía@empresa.co,+57 334-2110460,2023-02-18
+14,Sara Ramírez,Vendedor,sara.ramírez@outlook.com,+57 383-9375710,"Dec 27, 2023"
+15,Sara Flores,Jefe de ventas,sara.flores@outlook.com,+57 333-3342608,15-Jun-2021
+16,Valentina Torres,Vendedor,valentina.torres@empresa.co,,10/12/2020
+17,María Martínez,Jefe de ventas,maría.martínez@gmail.com,+57 396-1790481,18-Jul-2022
+18,  Carlos Flores  ,Vendedor,carlos.flores at empresa.co,+57 376-2065818,10/04/2021

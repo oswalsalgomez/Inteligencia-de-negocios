@@ -1,0 +1,371 @@
+customer_id,customer_name,email,phone,city,address,signup_date
+1,Carlos García,carlos.garcía@yahoo.com,+57 391-2414808,Manizales,Calle 80 #104-116,2024-07-17
+2,Felipe Martínez,felipe.martínez@empresa.co,+57 367-9770256,Bogota,Diagonal 38 #91-57,07/07/2024
+3,Carlos Gómez,carlos.gómez@yahoo.com,+57 386-1878547,Bucaramanga,Transversal 9 #50-53,05-Jan-2024
+4,Felipe Flores,felipe.flores@empresa.co,+57 336-5227787,Bucaramanga,Calle 80 #43-13,05-06-2023
+5,Juan Flores,juan.flores@outlook.com,+57 344-6204824,Villavicencio,Cra 15 #43-11,19-Sep-2020
+6,Valentina Flores,valentina.flores@gmail.com,+57 339-7319630,Pereira,Cra 15 #77-91,2022-10-13
+7,Diana Gómez,diana.gómez@empresa.co,+57 365-7070468,CALI,Cra 30 #12-83,2024-05-08
+8,Paula Hernández,,+57 324-4800761,cali,Diagonal 38 #44-99,"Apr 13, 2021"
+9,Carlos Rodríguez,carlos.rodríguez@gmail.com,+57 384-6649968,cartagena,Calle 80 #65-99,30/08/2020
+10,Diana Ramírez,diana.ramírez@outlook.com,+57 323-3777286,cali,Calle 13 #49-20,18/07/2021
+11,Sofía García,sofía.garcía@outlook.com,+57 356-5780297,Pereira,Calle 26 #87-93,05-18-2022
+12,Valentina Pérez,valentina.pérez@empresa.co,3247171347,Barranquila,Cra 30 #31-40,01-30-2023
+13,Lucía Pérez,lucía.pérez@empresa.co,+57 320-4350371,Manizales,Transversal 9 #100-49,01-10-2023
+14,Lucía Martínez,lucía.martínez@yahoo.com,+57 370-2721170,Cartagena ,Av. Siempre Viva #83-62,03-04-2022
+15,Juan Torres,juan.torres@outlook.com,+57 334-8538325,Medellin,Transversal 9 #11-98,10/04/2024
+16,Andrés Martínez,andrés.martínez@empresa.co,+57 344-1447451,Pereira,Calle 80 #117-29,2021-03-10
+17,Ana Díaz,ana.díaz@gmail.com,+57 347-4767135,Ibagué,Calle 26 #31-50,2021-06-15
+18,Paula Rodríguez,paula.rodríguez@yahoo.com,+57 360-3328554,Bucaramanga,Cra 15 #18-5,23/12/2024
+19,Valentina Pérez,valentina.pérez@gmail.com,+57 302-5293691,Manizales,Calle 13 #1-116,22/02/2020
+20,Juan Martínez,juan.martínez@gmail.com,+57 399-5833542,Ibagué,Calle 13 #68-55,2022-09-13
+21,Jorge Rodríguez,jorge.rodríguez@empresa.co,+57 308-2859886,Bogota,Diagonal 38 #54-82,2022-05-15
+22,Sara Pérez,sara.pérez@outlook.com,+57 391-3408819,Villavicencio,Cra 30 #3-81,11-Jan-2022
+23,Camilo García,camilo.garcía@empresa.co,+57 323-2436363,Villavicencio,Calle 26 #31-74,"Nov 27, 2020"
+24,Paula Rodríguez,paula.rodríguez@gmail.com,+57 349-8887557,Ibagué,Cra 30 #65-101,17-Apr-2021
+25, Felipe Díaz ,,3086784825,Bucaramanga,Transversal 9 #96-3,10-10-2022
+26,Valentina Flores,valentina.flores@yahoo.com,+57 317-1743829,medellín,Calle 13 #95-97,03/05/2020
+27,Andrés Gómez,andrés.gómez@outlook.com,+57 317-2058651,CALI,Av. Boyacá #90-62,11-May-2023
+28,Diana Pérez,diana.pérez@outlook.com,+57 305-6294819,Bogota,Transversal 9 #26-6,"May 05, 2020"
+29,Jorge Torres,,+57 396-4206183,Pereira,Cra 30 #61-33,2024-01-12
+30,Paula García,paula.garcía@yahoo.com,+57 355-7711251,Bucaramanga,Transversal 9 #16-103,"Jun 02, 2022"
+31,Sofía Díaz,sofía.díaz@empresa.co,+57 347-9712003,Bucaramanga,Cra 15 #64-89,31-Oct-2024
+32,Diana Rodríguez,diana.rodríguez@outlook.com,+57 369-5928582,Pereira,Calle 80 #56-78,"Feb 15, 2020"
+33,Luis Rodríguez,luis.rodríguez@empresa.co,+57 321-8447546,Bucaramanga,Transversal 9 #40-58,12/04/2021
+34,Sofía García,sofía.garcía@gmail.com,+57 309-7815076,Bucaramanga,Calle 13 #56-36,09-16-2020
+35,Andrés Castro,andrés.castro@empresa.co,+57 304-3117788,CALI,Av. Siempre Viva #19-109,2022-12-23
+36,María Flores,maría.flores@gmail.com,+57 377-3574265,Bucaramanga,Calle 26 #50-73,12-02-2021
+37,Sofía Gómez,sofía.gómez@outlook.com,+57 367-7156398,Bucaramanga,Av. Boyacá #98-10,18/06/2021
+38,Paula Flores,paula.flores@outlook.com,+57 363-9686324,cartagena,Diagonal 38 #15-4,2024-08-22
+39,Sara Torres,sara.torres@empresa.co,+57 327-5791184,Medellin,Transversal 9 #100-34,03-30-2021
+40,Sara Pérez,sara.pérez@gmail.com,+57 357-3896693,Barranquila,Calle 80 #18-110,07/03/2020
+41,Valentina Pérez,valentina.pérez@gmail.com,+57 370-5871470,Medellin,Calle 26 #86-45,2020-04-30
+42,Jorge Martínez,jorge.martínez@gmail.com,+57 325-3329967,CALI,Calle 26 #66-29,04-Feb-2020
+43,Diana Pérez,diana.pérez@yahoo.com,+57 359-3177199,bogota,Calle 26 #71-74,"Jan 13, 2022"
+44,Sara Rodríguez,sara.rodríguez@empresa.co,+57 367-7891998,Medellin,Transversal 9 #51-92,13-Oct-2022
+45,Camilo Ramírez,camilo.ramírez@gmail.com,+57 357-8815384,Medellin,Cra 15 #41-83,"Feb 15, 2025"
+46,Andrés Gómez,andrés.gómez@outlook.com,+57 398-3164813,CALI,Cra 30 #82-76,"Jan 24, 2022"
+47,Andrés García,andrés.garcía@outlook.com,+57 320-6413349,medellín,Cra 30 #20-39,01-02-2025
+48,Valentina López,valentina.lópez@gmail.com,+57 332-4293399,Bucaramanga,Cra 30 #115-37,2023-06-29
+49,Andrés Hernández,andrés.hernández@gmail.com,+57 364-3829240,CALI,Transversal 9 #79-69,"Jan 29, 2022"
+50,Lucía Martínez,lucía.martínez@yahoo.com,+57 372-1691125,CALI,Calle 13 #93-116,04-23-2023
+51,Juan García,juan.garcía@yahoo.com,+57 383-4536777,Medellin,Av. Siempre Viva #83-99,01-31-2022
+52,Lucía Díaz,lucía.díaz@yahoo.com,+57 382-6068298,Villavicencio,Av. Siempre Viva #64-114,20/05/2022
+53,María Flores,maría.flores@gmail.com,+57 320-8375356,Pereira,Transversal 9 #59-10,05-19-2021
+54,Sofía Pérez,sofía.pérez@yahoo.com,+57 391-6357240,barranquilla,Calle 26 #78-19,2022-09-09
+55,Juan Gómez,juan.gómez@gmail.com,+57 340-5055688,Pereira,Cra 15 #98-48,10-07-2020
+56,Luis Hernández,,+57 337-7444964,Manizales,Diagonal 38 #19-13,"Aug 03, 2022"
+57,Lucía Díaz,lucía.díaz@yahoo.com,+57 324-3673322,barranquilla,Cra 15 #105-42,2020-01-06
+58,Andrés Pérez,andrés.pérez@gmail.com,+57 350-9479950,Manizales,Transversal 9 #64-3,31-Mar-2020
+59,María López,maría.lópez@yahoo.com,+57 363-8895137,Villavicencio,Calle 26 #7-7,2020-05-01
+60,Andrés García,andrés.garcía@yahoo.com,+57 393-7136730,medellín,Cra 7 #18-113,20-Jun-2024
+61,Camilo Gómez,camilo.gómez@outlook.com,+57 346-5841933,bogotá,Cra 7 #7-73,2020-09-08
+62,Camilo Torres,camilo.torres@gmail.com,+57 316-2622046,Manizales,Cra 30 #36-106,2021-02-28
+63,Paula Gómez,paula.gómez@outlook.com,+57 377-9541658,Ibagué,Calle 26 #97-19,"Jul 08, 2024"
+64,Andrés García,andrés.garcía@yahoo.com,+57 360-9712957,bogotá,Av. Siempre Viva #18-92,08/02/2023
+65,Carlos Ramírez,carlos.ramírez@yahoo.com,+57 320-7592683,Ibagué,Cra 15 #42-120,"Jul 24, 2020"
+66,Valentina Hernández,valentina.hernández@empresa.co,+57 390-6029651,Villavicencio,Calle 26 #65-107,03-27-2022
+67,Juan García,juan.garcía@empresa.co,+57 374-6161977,Bucaramanga,Calle 26 #87-15,2024-04-12
+68,Sara Castro,,+57 392-1861596,BOGOTA,Calle 13 #61-34,28/09/2022
+69,Sofía Martínez,sofía.martínez@empresa.co,+57 318-5063384,Ibagué,Calle 13 #100-108,17-May-2022
+70,Lucía Castro,lucía.castro@yahoo.com,+57 353-3540594,medellín,Diagonal 38 #3-57,28-Mar-2020
+71,Valentina López,valentina.lópez@empresa.co,+57 394-2044906,Pereira,Cra 30 #100-79,27-Jan-2020
+72,Carlos Torres,carlos.torres@empresa.co,+57 367-7322070,Barranquila,Cra 30 #42-85,07-18-2020
+73,Carlos Pérez,carlos.pérez@yahoo.com,+57 378-9123194,Ibagué,Calle 26 #70-46,2022-07-06
+74,María Hernández,maría.hernández@yahoo.com,+57 390-4477544,Ibagué,Transversal 9 #29-39,30-Oct-2020
+75,Valentina Pérez,valentina.pérez@yahoo.com,+57 336-3044708,Bucaramanga,Av. Boyacá #45-72,2020-03-03
+76,Felipe Torres,felipe.torres@outlook.com,+57 337-1705758,Pereira,Cra 7 #105-45,2021-12-02
+77,Valentina Rodríguez,valentina.rodríguez@empresa.co,+57 327-4390138,Bucaramanga,Av. Boyacá #84-33,2022-08-07
+78,Andrés Hernández,andrés.hernández@outlook.com,+57 331-1851702,Ibagué,Transversal 9 #18-14,04-Feb-2021
+79,Sara Torres,sara.torres@empresa.co,+57 342-8925622,Barranquila,Diagonal 38 #7-13,"Mar 27, 2020"
+80,Felipe Martínez,felipe.martínez@empresa.co,+57 383-8980915,bogota,Cra 30 #119-21,2022-07-16
+81,Felipe López,felipe.lópez@gmail.com,+57 398-2500901,Cartagena ,Calle 26 #37-83,2021-05-19
+82,Lucía López,lucía.lópez@outlook.com,+57 353-3949245,Ibagué,Av. Siempre Viva #117-118,04/08/2022
+83,Sara García,sara.garcía@yahoo.com,+57 304-1155477,Pereira,Av. Boyacá #24-120,2021-11-11
+84,Lucía Ramírez,lucía.ramírez@empresa.co,+57 317-9459284,medellín,Calle 26 #37-59,04-07-2020
+85,Jorge López,jorge.lópez@empresa.co,+57 382-5316188,medellín,Calle 26 #21-94,09-Jan-2022
+86,Carlos García,carlos.garcía@outlook.com,+57 322-7802999,Bucaramanga,Transversal 9 #73-87,"Jul 18, 2021"
+87,Camilo Torres,camilo.torres@gmail.com,+57 323-3359075,Bucaramanga,Calle 80 #52-86,06/09/2021
+88,Paula López,paula.lópez@empresa.co,+57 396-5479421,Bogota,Transversal 9 #50-31,"Jun 28, 2024"
+89,Jorge Ramírez,jorge.ramírez@yahoo.com,+57 388-4964499,Villavicencio,Av. Siempre Viva #34-84,2020-12-24
+90,Felipe Rodríguez,felipe.rodríguez@yahoo.com,+57 388-2969909,Manizales,Transversal 9 #21-52,12/12/2023
+91,Sara Hernández,sara.hernández@outlook.com,+57 361-3570027,Bucaramanga,Calle 13 #29-29,2020-02-20
+92,Valentina Ramírez,valentina.ramírez@empresa.co,+57 396-4664338,Bucaramanga,Cra 7 #90-71,"Mar 03, 2023"
+93,María Flores,maría.flores@yahoo.com,+57 309-2882551,Villavicencio,Calle 80 #68-58,01-07-2021
+94,Juan Torres,juan.torres@outlook.com,+57 321-6504900,Ibagué,Diagonal 38 #74-69,24-Dec-2022
+95,Andrés Pérez,,+57 311-9562677,Medellin,Diagonal 38 #92-75,10-17-2023
+96,Diana García,diana.garcía@empresa.co,+57 372-1968662,Manizales,Cra 15 #66-54,"Jul 04, 2022"
+97,Sofía Flores,sofía.flores@gmail.com,+57 395-4655777,Cartagena ,Av. Siempre Viva #51-33,"Dec 11, 2023"
+98,Luis García,luis.garcía@gmail.com,+57 308-8920040,Pereira,Calle 26 #90-9,05-05-2023
+99,Jorge Díaz,jorge.díaz@empresa.co,+57 347-7416943,CALI,Cra 15 #99-83,2022-10-13
+100,Juan Díaz,juan.díaz@outlook.com,+57 383-6834610,Pereira,Calle 80 #88-85,2021-02-22
+101,Carlos Torres,carlos.torres@outlook.com,+57 300-1381435,Pereira,Cra 30 #17-94,2023-02-23
+102,Sofía Flores,sofía.flores@outlook.com,+57 331-8728009,Ibagué,Cra 7 #69-49,14/11/2021
+103, Carlos Hernández ,carlos.hernández@empresa.co,+57 378-1262492,Barranquila,Calle 80 #5-104,06/10/2023
+104,María Rodríguez,maría.rodríguez@gmail.com,+57 331-1742169,Medellin,Calle 13 #5-58,"May 28, 2023"
+105,Sofía López,sofía.lópez@gmail.com,+57 317-9453969,Ibagué,Diagonal 38 #97-111,"Nov 16, 2020"
+106,María Castro,maría.castro@yahoo.com,+57 330-6062767,Villavicencio,Calle 26 #74-77,03-03-2025
+107,Carlos Flores,carlos.flores@yahoo.com,+57 307-3938247,Ibagué,Diagonal 38 #53-39,"Sep 12, 2024"
+108,Felipe Díaz,felipe.díaz@empresa.co,+57 367-6347476,Ibagué,Av. Boyacá #7-45,"Dec 26, 2024"
+109,Camilo Díaz,,+57 330-4780654,cali,Transversal 9 #49-24,13/06/2022
+110,Juan Castro,juan.castro@empresa.co,+57 353-9891787,CALI,Av. Boyacá #118-8,06-10-2020
+111,Camilo López,camilo.lópez@gmail.com,+57 357-7225647,cartagena,Diagonal 38 #43-83,2023-04-13
+112,Andrés Castro,andrés.castro@gmail.com,+57 309-4156856,Barranquila,Av. Siempre Viva #35-49,10/12/2022
+113, Diana Ramírez ,diana.ramírez@yahoo.com,+57 338-1257256,Ibagué,Diagonal 38 #62-27,28/08/2024
+114,Sara López,sara.lópez@outlook.com,+57 350-5015307,Medellin,Av. Boyacá #118-32,"Dec 03, 2023"
+115,Paula Hernández,paula.hernández@yahoo.com,+57 339-5388275,Pereira,Av. Boyacá #69-84,2020-02-08
+116,Andrés Pérez,andrés.pérez@empresa.co,+57 397-6372622,Manizales,Calle 80 #103-93,04-27-2020
+117,María Gómez,maría.gómez@outlook.com,+57 394-3448176,Bucaramanga,Cra 7 #6-73,"Apr 05, 2022"
+118,Jorge Torres,jorge.torres@yahoo.com,+57 319-4291551,Villavicencio,Calle 13 #93-54,2022-05-21
+119,María Díaz,maría.díaz@yahoo.com,+57 332-9197701,Villavicencio,Diagonal 38 #64-71,09-28-2021
+120,Felipe Castro,felipe.castro@yahoo.com,+57 321-3348114,Manizales,Av. Boyacá #22-94,07-Jul-2023
+121,Andrés Pérez,andrés.pérez@gmail.com,+57 309-1813936,CALI,Cra 30 #83-8,2020-02-21
+122,Ana Díaz,ana.díaz@outlook.com,+57 301-4669507,cali,Diagonal 38 #9-91,2024-06-16
+123,Sofía Gómez,sofía.gómez@empresa.co,+57 384-9184838,BOGOTA,Calle 13 #82-86,"Apr 13, 2020"
+124,Ana Torres,ana.torres@yahoo.com,3685809835,Ibagué,Cra 7 #2-3,"Apr 20, 2023"
+125,Andrés Castro,andrés.castro@gmail.com,+57 367-3498085,Pereira,Cra 15 #14-118,"Sep 27, 2023"
+126,María Ramírez,maría.ramírez@yahoo.com,+57 350-2325722,Ibagué,Transversal 9 #105-46,09-11-2020
+127,Camilo Pérez,camilo.pérez@yahoo.com,+57 387-2352527,Villavicencio,Diagonal 38 #90-29,2020-03-17
+128,Juan Flores,juan.flores@empresa.co,+57 370-8986040,BOGOTA,Calle 80 #52-49,03-13-2024
+129,Felipe García,felipe.garcía@empresa.co,+57 382-6557798,cali,Calle 80 #64-109,14/04/2023
+130,Juan Rodríguez,juan.rodríguez@empresa.co,+57 334-1781180,Ibagué,Av. Siempre Viva #30-28,18-Jan-2023
+131,Luis Flores,luis.flores@gmail.com,+57 322-6276177,cartagena,Cra 30 #73-85,19-May-2020
+132,María Ramírez,maría.ramírez@yahoo.com,+57 320-5034453,CALI,Cra 7 #119-10,03-30-2024
+133,Juan Díaz,juan.díaz@outlook.com,+57 388-2315798,Ibagué,Calle 26 #50-97,2023-03-21
+134,Valentina Gómez,valentina.gómez@gmail.com,+57 343-7655572,bogota,Calle 80 #56-30,07/10/2021
+135, Paula García ,paula.garcía@yahoo.com,+57 370-7298619,cartagena,Av. Boyacá #63-30,2023-09-29
+136,Carlos Flores,carlos.flores@yahoo.com,+57 331-2233237,Villavicencio,Cra 7 #11-99,10/10/2021
+137,Jorge Martínez,jorge.martínez@yahoo.com,+57 346-2787627,Pereira,Cra 15 #95-50,03-27-2020
+138,Ana Hernández,ana.hernández@gmail.com,+57 316-2464604,Manizales,Calle 26 #98-35,04-Jun-2023
+139,Camilo Pérez,camilo.pérez@gmail.com,+57 303-2503554,Ibagué,Cra 30 #66-53,2022-10-24
+140,Andrés Rodríguez,andrés.rodríguez@empresa.co,+57 301-5896386,Villavicencio,Calle 13 #101-42,12-Jul-2024
+141,Camilo Rodríguez,camilo.rodríguez@outlook.com,+57 387-7387623,Ibagué,Diagonal 38 #74-67,01-Sep-2021
+142,Carlos Hernández,carlos.hernández@gmail.com,+57 321-8292657,cartagena,Transversal 9 #64-19,"Aug 09, 2024"
+143,Camilo Hernández,camilo.hernández@outlook.com,+57 392-9318184,Manizales,Calle 80 #47-33,"Mar 18, 2025"
+144,Lucía López,lucía.lópez@gmail.com,+57 350-6573679,Manizales,Calle 80 #18-39,23-May-2024
+145,Lucía Díaz,lucía.díaz@outlook.com,+57 338-6379868,Bucaramanga,Av. Boyacá #43-56,"Dec 19, 2022"
+146,Valentina López,valentina.lópez@yahoo.com,+57 337-9237735,Manizales,Calle 26 #23-51,01/08/2023
+147,Diana López,diana.lópez@empresa.co,+57 346-2910720,Bucaramanga,Cra 7 #36-105,2023-08-20
+148,Lucía López,lucía.lópez@gmail.com,+57 393-8744735,Villavicencio,Cra 30 #24-88,"Feb 10, 2021"
+149,María Pérez,maría.pérez@empresa.co,+57 386-9376917,cartagena,Calle 80 #105-109,"Apr 23, 2023"
+150,Felipe Hernández,felipe.hernández@empresa.co,+57 348-2240929,Barranquila,Transversal 9 #85-20,2023-11-04
+151,Lucía Pérez,lucía.pérez@empresa.co,+57 369-1616817,Villavicencio,Cra 7 #69-65,"Jul 24, 2024"
+152, Paula Castro ,paula.castro@gmail.com,+57 313-5164624,Ibagué,Calle 13 #82-118,21-Feb-2022
+153,Felipe Gómez,felipe.gómez@empresa.co,+57 396-6563269,cali,Calle 13 #6-73,02-13-2023
+154, Camilo Rodríguez ,camilo.rodríguez@outlook.com,+57 357-7276684,Bogota,Calle 80 #34-29,"Jul 28, 2020"
+155,Sofía Flores,sofía.flores@gmail.com,+57 361-2754047,Villavicencio,Cra 30 #20-45,"Feb 02, 2025"
+156,Camilo Rodríguez,camilo.rodríguez@yahoo.com,+57 358-4470657,Medellin,Cra 15 #45-40,22/07/2020
+157,Sofía Gómez,sofía.gómez@empresa.co,+57 340-2126998,Manizales,Calle 80 #57-93,"Mar 18, 2021"
+158,Ana Castro,ana.castro@gmail.com,+57 386-3757404,medellín,Av. Siempre Viva #109-44,2021-08-10
+159,Valentina López,valentina.lópez@yahoo.com,+57 371-8153291,Ibagué,Cra 15 #71-21,"Sep 20, 2022"
+160, María Díaz ,maría.díaz@empresa.co,+57 350-1489765,CALI,Cra 15 #82-85,03-15-2023
+161,Lucía López,lucía.lópez@gmail.com,+57 390-4603680,Manizales,Calle 13 #55-50,23/05/2021
+162,Jorge Castro,jorge.castro@outlook.com,+57 346-6469119,Medellin,Calle 13 #14-103,28/08/2024
+163,Sofía Rodríguez,sofía.rodríguez@yahoo.com,+57 376-7520284,cartagena,Av. Boyacá #68-82,04-09-2024
+164,Camilo Ramírez,camilo.ramírez@empresa.co,+57 379-3894531,Medellin,Calle 26 #46-109,13/06/2022
+165,Felipe Castro,felipe.castro@outlook.com,+57 340-2977390,cartagena,Calle 13 #76-11,07-Mar-2021
+166,Jorge Rodríguez,jorge.rodríguez@empresa.co,+57 353-3313029,cali,Calle 26 #89-19,03-Oct-2023
+167,Camilo Díaz,camilo.díaz@outlook.com,+57 371-3799538,CALI,Av. Boyacá #82-69,05-03-2023
+168,Jorge Martínez,jorge.martínez@gmail.com,+57 345-1160783,CALI,Calle 26 #108-58,08-Apr-2023
+169,Carlos López,carlos.lópez@empresa.co,+57 352-9249791,Pereira,Cra 30 #65-84,2025-02-10
+170,Valentina Pérez,valentina.pérez@gmail.com,+57 397-4699871,Manizales,Cra 15 #11-73,"Jun 04, 2023"
+171,Ana Hernández,ana.hernández@empresa.co,+57 372-9309978,barranquilla,Cra 30 #37-22,2024-07-10
+172,Andrés Rodríguez,andrés.rodríguez@yahoo.com,+57 369-1698108,Villavicencio,Calle 80 #35-100,05-17-2020
+173,Valentina Pérez,valentina.pérez@outlook.com,+57 338-1540736,Ibagué,Diagonal 38 #55-14,"Dec 04, 2020"
+174,Jorge Gómez,jorge.gómez@outlook.com,+57 326-6882609,medellín,Av. Boyacá #111-16,02/10/2024
+175,Valentina Ramírez,valentina.ramírez@outlook.com,+57 326-1995859,Pereira,Cra 15 #79-18,23/02/2020
+176,Paula Torres,paula.torres@yahoo.com,+57 390-5909595,Cartagena ,Calle 13 #69-22,2022-08-14
+177,Lucía Hernández,lucía.hernández@empresa.co,+57 307-5652716,Ibagué,Calle 80 #18-97,"Nov 21, 2022"
+178,Felipe Martínez,felipe.martínez@yahoo.com,+57 331-7588425,cali,Diagonal 38 #19-92,05-Aug-2024
+179,Carlos Ramírez,carlos.ramírez@gmail.com,+57 381-2561871,Cartagena ,Cra 7 #49-58,25/09/2024
+180,Andrés Castro,andrés.castro@yahoo.com,+57 374-1041491,Cartagena ,Calle 26 #59-63,2020-08-04
+181,Diana Castro,diana.castro@yahoo.com,+57 308-9966154,Medellin,Av. Boyacá #82-86,2022-04-21
+182,María Díaz,maría.díaz@yahoo.com,+57 343-3191007,Barranquila,Av. Boyacá #35-42,18/09/2024
+183,Juan Pérez,juan.pérez@empresa.co,+57 302-3084353,Bucaramanga,Av. Siempre Viva #6-13,2023-09-15
+184,Juan Martínez,juan.martínez@outlook.com,+57 388-3213134,Manizales,Av. Boyacá #1-55,07-15-2023
+185,Felipe Hernández,felipe.hernández@yahoo.com,+57 332-2382787,CALI,Transversal 9 #12-84,13-Jul-2020
+186,Felipe Flores,felipe.flores@yahoo.com,+57 392-4928281,cali,Av. Siempre Viva #51-81,2024-06-24
+187,Felipe Rodríguez,felipe.rodríguez@gmail.com,+57 316-4794852,Medellin,Av. Siempre Viva #28-62,04-26-2021
+188,Felipe Pérez,felipe.pérez@gmail.com,+57 354-3217531,bogotá,Av. Siempre Viva #90-44,02-Nov-2023
+189,Luis López,luis.lópez@gmail.com,+57 313-6257165,Pereira,Calle 80 #94-104,16-Mar-2023
+190,Sara Hernández,sara.hernández@outlook.com,+57 382-3396676,cali,Cra 7 #100-105,04-May-2023
+191,Andrés Ramírez,andrés.ramírez@empresa.co,+57 344-4574477,bogota,Calle 13 #84-22,17-Dec-2024
+192,Valentina Martínez,valentina.martínez@outlook.com,+57 311-2685524,Pereira,Calle 13 #88-57,07/07/2022
+193,Diana Rodríguez,diana.rodríguez@yahoo.com,+57 317-5157165,Villavicencio,Cra 7 #45-55,2025-01-11
+194,Felipe Rodríguez,felipe.rodríguez@yahoo.com,+57 399-1450038,barranquilla,Cra 30 #77-77,"Jun 20, 2020"
+195,Juan Flores,juan.flores@outlook.com,+57 395-7572491,cartagena,Diagonal 38 #67-78,15-Feb-2020
+196,Felipe García,felipe.garcía@outlook.com,+57 363-2191383,barranquilla,Av. Boyacá #50-15,28-Oct-2022
+197,Sara García,sara.garcía@empresa.co,+57 346-3898604,Bucaramanga,Calle 26 #17-50,16-Aug-2021
+198,Sofía Rodríguez,sofía.rodríguez@yahoo.com,+57 327-1668183,Bogota,Calle 13 #9-2,2020-03-03
+199,Ana Díaz,ana.díaz@empresa.co,+57 354-7749095,Ibagué,Transversal 9 #81-92,"Jan 24, 2023"
+200,Felipe Torres,felipe.torres@gmail.com,+57 339-2325761,Ibagué,Calle 13 #20-36,01-05-2025
+201,Sara López,sara.lópez@gmail.com,+57 339-8339797,CALI,Cra 30 #42-51,14-Sep-2021
+202,Juan López,juan.lópez@empresa.co,+57 314-8606317,Bogota,Diagonal 38 #12-119,10/10/2020
+203,Lucía García,lucía.garcía@outlook.com,+57 389-1190431,Cartagena ,Cra 15 #16-2,2024-04-01
+204,Sofía Gómez,sofía.gómez@yahoo.com,+57 321-7238933,Ibagué,Cra 30 #101-106,07-13-2022
+205,Valentina Hernández,valentina.hernández@empresa.co,+57 334-9788815,Medellin,Av. Siempre Viva #43-104,04-Dec-2022
+206,Jorge Castro,jorge.castro@yahoo.com,+57 307-9382064,Villavicencio,Calle 80 #64-59,19/02/2024
+207,Lucía Martínez,lucía.martínez@gmail.com,+57 373-2934976,Bucaramanga,Cra 15 #33-99,"Mar 15, 2023"
+208,Valentina Torres,valentina.torres@gmail.com,+57 331-1771442,bogota,Av. Siempre Viva #110-111,11-04-2022
+209,Paula Díaz,paula.díaz@gmail.com,+57 370-8035849,cali,Cra 15 #120-110,2022-06-15
+210,Paula López,paula.lópez@gmail.com,+57 373-7254683,Pereira,Calle 26 #35-106,09/01/2023
+211,Andrés Flores,andrés.flores@gmail.com,+57 351-2156393,bogotá,Cra 15 #29-103,2020-05-06
+212,Sofía Hernández,sofía.hernández@empresa.co,+57 301-7189439,cartagena,Calle 26 #12-71,15-Jun-2021
+213,Jorge Ramírez,jorge.ramírez@yahoo.com,+57 375-9277218,cartagena,Calle 13 #32-60,"Apr 05, 2020"
+214,Diana López,diana.lópez@empresa.co,+57 303-4909053,Ibagué,Diagonal 38 #20-1,08-29-2022
+215,Paula Flores,paula.flores@empresa.co,+57 394-6159172,bogotá,Calle 26 #1-98,2022-08-27
+216,María Torres,,+57 391-5694689,Barranquila,Cra 7 #63-8,24/08/2024
+217,Ana López,ana.lópez@yahoo.com,+57 358-2424426,Ibagué,Cra 7 #90-115,20/09/2024
+218,Luis Torres,luis.torres@gmail.com,+57 355-3192921,CALI,Cra 7 #10-76,17-Feb-2022
+219,Jorge Hernández,jorge.hernández@yahoo.com,+57 340-8596016,Bucaramanga,Cra 7 #90-107,06-23-2020
+220,María Rodríguez,maría.rodríguez@gmail.com,+57 319-2772642,Barranquila,Cra 15 #100-99,"May 04, 2023"
+221,Sofía Pérez,sofía.pérez@yahoo.com,+57 398-4483557,Bucaramanga,Cra 7 #16-69,2020-07-06
+222,Jorge Pérez,jorge.pérez@yahoo.com,+57 390-1676621,cartagena,Calle 80 #12-21,28/03/2025
+223,Juan Gómez,juan.gómez@yahoo.com,+57 350-9614423,CALI,Calle 80 #92-32,"Nov 12, 2022"
+224,Felipe Hernández,felipe.hernández@empresa.co,+57 371-5191831,cartagena,Cra 15 #4-52,13-Oct-2023
+225,Sofía Rodríguez,sofía.rodríguez@outlook.com,+57 316-4324120,CALI,Calle 80 #2-8,07/07/2021
+226,Camilo Gómez,camilo.gómez@gmail.com,+57 302-2081661,medellín,Calle 13 #76-34,"May 13, 2023"
+227,Sara Flores,sara.flores@yahoo.com,+57 315-1716325,Manizales,Cra 15 #12-116,20-Feb-2023
+228,Ana Martínez,,+57 363-1494630,Villavicencio,Cra 7 #106-93,"Nov 04, 2020"
+229,Felipe Díaz,felipe.díaz@outlook.com,+57 335-5695180,cali,Calle 26 #28-117,"Jan 27, 2024"
+230,Sara Martínez,sara.martínez@outlook.com,3825951043,Bogota,Calle 13 #80-79,"Mar 30, 2023"
+231,Camilo Torres,camilo.torres@empresa.co,+57 317-8033593,Manizales,Av. Siempre Viva #12-36,2023-09-23
+232,Felipe Torres,felipe.torres@empresa.co,+57 391-7024901,Barranquila,Cra 30 #102-3,2021-07-01
+233,Andrés Pérez,andrés.pérez@empresa.co,+57 334-4016809,Bucaramanga,Calle 13 #65-42,04-20-2023
+234,Paula Ramírez,paula.ramírez@yahoo.com,+57 307-8913550,Barranquila,Av. Siempre Viva #115-104,2021-04-14
+235,Paula Ramírez,paula.ramírez@outlook.com,+57 334-9953825,barranquilla,Cra 15 #13-32,2021-06-13
+236,Diana Castro,diana.castro@empresa.co,+57 345-3914404,BOGOTA,Diagonal 38 #74-109,06-Jun-2024
+237,María Ramírez,maría.ramírez@gmail.com,+57 390-6900247,Bucaramanga,Calle 26 #117-76,2022-05-17
+238,Lucía Martínez,lucía.martínez@empresa.co,+57 369-6185050,Villavicencio,Diagonal 38 #108-104,"Dec 27, 2021"
+239,Sofía García,sofía.garcía@outlook.com,+57 302-9832340,Medellin,Av. Siempre Viva #30-78,"Mar 31, 2020"
+240,Ana Gómez,ana.gómez@yahoo.com,3913977282,Villavicencio,Diagonal 38 #104-17,16-Jan-2025
+241, Diana Gómez ,diana.gómez@outlook.com,+57 399-2860938,bogotá,Av. Siempre Viva #19-76,08/08/2023
+242,Andrés Gómez,andrés.gómez@empresa.co,+57 375-2695038,medellín,Calle 26 #91-85,"Dec 28, 2020"
+243,Jorge Gómez,jorge.gómez@empresa.co,+57 383-6323132,cali,Cra 15 #94-56,04-Aug-2021
+244,Valentina Torres,valentina.torres@outlook.com,+57 348-6147639,Villavicencio,Calle 26 #29-86,17/02/2023
+245,Valentina Hernández,,+57 398-1543292,cali,Cra 15 #94-1,"Nov 13, 2021"
+246,Lucía Gómez,lucía.gómez@gmail.com,+57 363-3359604,Villavicencio,Diagonal 38 #82-73,2021-12-26
+247,Valentina Rodríguez,valentina.rodríguez@gmail.com,+57 390-6632941,Barranquila,Calle 26 #41-22,"May 14, 2024"
+248,Ana Hernández,ana.hernández@yahoo.com,+57 332-2812519,barranquilla,Diagonal 38 #89-9,"Apr 04, 2023"
+249,Ana García,ana.garcía@outlook.com,+57 352-9272543,Pereira,Av. Boyacá #94-54,01-07-2021
+250,Camilo Gómez,camilo.gómez@empresa.co,+57 373-4784650,Ibagué,Cra 7 #13-107,2023-08-03
+251,Sofía Rodríguez,sofía.rodríguez@yahoo.com,+57 313-2244876,Bogota,Transversal 9 #3-41,17-Dec-2024
+252,Carlos Díaz,carlos.díaz@gmail.com,+57 343-9098979,cali,Calle 80 #71-115,"Mar 11, 2025"
+253,Ana Díaz,ana.díaz@outlook.com,+57 306-2698824,cali,Calle 13 #114-56,12-08-2023
+254,María López,maría.lópez@yahoo.com,+57 384-5723173,Pereira,Cra 30 #93-119,06-Sep-2024
+255,María Rodríguez,maría.rodríguez@empresa.co,+57 319-1914439,Bogota,Cra 7 #74-71,"Feb 09, 2022"
+256,Ana Díaz,ana.díaz@empresa.co,+57 325-2627170,Medellin,Transversal 9 #106-85,24/01/2023
+257,María Martínez,maría.martínez@gmail.com,+57 339-7668395,cartagena,Calle 80 #61-109,01-15-2024
+258,Sofía Flores,sofía.flores@empresa.co,+57 323-7224691,cartagena,Calle 80 #83-70,31-Mar-2025
+259,Camilo Gómez,camilo.gómez@empresa.co,+57 359-5419132,CALI,Av. Boyacá #6-34,2022-05-29
+260,Juan Hernández,juan.hernández@gmail.com,+57 310-6767862,Villavicencio,Av. Siempre Viva #20-97,"Jun 28, 2021"
+261,Andrés Díaz,andrés.díaz@empresa.co,+57 366-8023480,Villavicencio,Diagonal 38 #71-8,11-13-2022
+262,Felipe Pérez,felipe.pérez@gmail.com,+57 350-1582647,Villavicencio,Diagonal 38 #61-39,2020-11-06
+263,Lucía Torres,lucía.torres@empresa.co,+57 322-3804559,Villavicencio,Calle 13 #19-16,2022-06-28
+264,Diana López,diana.lópez@empresa.co,+57 325-3480985,CALI,Av. Siempre Viva #55-11,09-Nov-2020
+265,Lucía Hernández,lucía.hernández@empresa.co,+57 370-6471499,Bucaramanga,Calle 80 #12-50,2021-11-23
+266,Jorge Torres,jorge.torres@empresa.co,+57 314-7953189,Manizales,Av. Siempre Viva #101-90,01/03/2022
+267,Carlos Ramírez,carlos.ramírez@gmail.com,+57 372-2694338,Villavicencio,Calle 13 #98-13,11-23-2020
+268,Jorge Torres,jorge.torres@empresa.co,+57 373-8936405,Bucaramanga,Cra 7 #34-50,02/04/2023
+269,Carlos Hernández,carlos.hernández@empresa.co,+57 304-7640300,Pereira,Cra 15 #80-78,"Aug 17, 2024"
+270,Sara Gómez,sara.gómez@yahoo.com,+57 347-1339451,barranquilla,Av. Siempre Viva #96-61,17-Jul-2021
+271,Juan Hernández,juan.hernández@gmail.com,+57 329-3254614,cartagena,Transversal 9 #108-63,24/01/2023
+272,Valentina Pérez,valentina.pérez@gmail.com,+57 324-8410774,Bucaramanga,Transversal 9 #94-54,01-Jan-2020
+273,Sara Díaz,sara.díaz@gmail.com,+57 365-3667115,Manizales,Cra 30 #112-48,21/03/2023
+274,Jorge Castro,jorge.castro@gmail.com,+57 322-4234033,Ibagué,Cra 7 #18-100,28-Jun-2021
+275,Juan López,juan.lópez@gmail.com,+57 346-4340507,Bogota,Diagonal 38 #5-59,30-Mar-2022
+276,Paula Pérez,paula.pérez@gmail.com,+57 387-1512765,Ibagué,Cra 7 #82-119,27-Nov-2023
+277,Paula Pérez,paula.pérez@empresa.co,+57 375-6867997,Villavicencio,Av. Boyacá #23-112,11-Apr-2021
+278,Carlos Hernández,carlos.hernández@gmail.com,+57 320-4595669,Medellin,Transversal 9 #4-50,"Mar 25, 2020"
+279,María Flores,maría.flores@empresa.co,+57 365-1336422,Barranquila,Diagonal 38 #35-84,10-08-2020
+280,Diana Flores,diana.flores@outlook.com,+57 376-1141997,Bogota,Av. Boyacá #117-17,"Mar 20, 2022"
+281,Jorge Ramírez,jorge.ramírez@empresa.co,+57 344-8700708,cartagena,Transversal 9 #55-115,05-Nov-2020
+282,María Pérez,maría.pérez@empresa.co,+57 374-2716512,Cartagena ,Cra 30 #106-80,30-Jun-2022
+283,Andrés Flores,andrés.flores@yahoo.com,+57 338-2813693,Bucaramanga,Cra 30 #83-77,2023-03-25
+284,Luis Gómez,luis.gómez@yahoo.com,+57 383-6012883,Cartagena ,Calle 26 #111-36,2022-05-20
+285,Carlos Torres,carlos.torres@empresa.co,+57 384-6361758,Barranquila,Av. Siempre Viva #104-110,2023-06-30
+286,Carlos Castro,carlos.castro@empresa.co,+57 351-7514172,bogotá,Av. Boyacá #38-34,07-01-2020
+287,Ana Ramírez,ana.ramírez@outlook.com,+57 387-9969688,Villavicencio,Diagonal 38 #44-93,31/05/2020
+288,Diana Pérez,diana.pérez@outlook.com,+57 384-4038955,Bucaramanga,Cra 30 #39-109,2024-08-26
+289,Luis Pérez,luis.pérez@outlook.com,+57 387-6630978,cali,Transversal 9 #93-104,16/04/2023
+290,Luis López,luis.lópez@yahoo.com,+57 353-6558579,Bucaramanga,Diagonal 38 #96-112,02-Jan-2022
+291,Jorge Ramírez,jorge.ramírez@empresa.co,+57 306-2194801,cartagena,Av. Boyacá #109-16,03/08/2023
+292,Sara López,sara.lópez@empresa.co,+57 367-6005578,Ibagué,Calle 80 #112-88,07/08/2024
+293,Ana Martínez,ana.martínez@empresa.co,+57 318-6308033,cali,Diagonal 38 #44-53,"Jan 03, 2024"
+294,Valentina Martínez,valentina.martínez@outlook.com,+57 340-1973306,Medellin,Av. Boyacá #43-81,09/08/2020
+295,Sofía Hernández,sofía.hernández@outlook.com,+57 362-2477088,barranquilla,Cra 15 #74-98,"Mar 12, 2021"
+296,Lucía Díaz,lucía.díaz@empresa.co,+57 300-1632925,Pereira,Cra 7 #55-62,"Jan 13, 2024"
+297,María Castro,maría.castro@outlook.com,+57 302-1069186,Bucaramanga,Av. Siempre Viva #115-42,2025-01-05
+298, Valentina López ,valentina.lópez@gmail.com,+57 349-9444584,Barranquila,Calle 26 #40-17,30/11/2021
+299,Jorge Martínez,jorge.martínez@empresa.co,+57 393-9728991,medellín,Av. Siempre Viva #39-38,2021-05-24
+300,Andrés Gómez,andrés.gómez@empresa.co,+57 345-4161264,Pereira,Cra 15 #44-116,02-23-2025
+301,Sara Díaz,sara.díaz@outlook.com,+57 327-1367643,BOGOTA,Diagonal 38 #29-94,19-Oct-2021
+302,Andrés Martínez,andrés.martínez@gmail.com,+57 348-5291430,Medellin,Calle 26 #92-84,2022-11-12
+303,Andrés Ramírez,andrés.ramírez@gmail.com,+57 383-1331211,bogotá,Calle 13 #7-85,03-31-2022
+304,Valentina Rodríguez,valentina.rodríguez@yahoo.com,+57 360-3569046,Pereira,Av. Boyacá #49-16,2024-05-15
+305,Valentina Flores,valentina.flores@gmail.com,+57 384-9729340,bogotá,Transversal 9 #54-85,06/02/2025
+306,Lucía Ramírez,lucía.ramírez@gmail.com,3652975258,cali,Cra 7 #107-116,01-07-2022
+307,Luis Rodríguez,luis.rodríguez@yahoo.com,+57 366-4383514,Manizales,Diagonal 38 #78-26,03-16-2024
+308,Valentina Díaz,valentina.díaz@empresa.co,+57 326-9064202,Cartagena ,Cra 15 #6-71,11/10/2022
+309,María García,maría.garcía@empresa.co,3192511336,bogotá,Calle 80 #117-15,2021-06-20
+310,Andrés Rodríguez,andrés.rodríguez@empresa.co,+57 337-5431282,medellín,Transversal 9 #83-30,2023-06-16
+311,Ana Rodríguez,ana.rodríguez@yahoo.com,+57 386-6246354,CALI,Av. Siempre Viva #110-38,05-28-2022
+312,Valentina Rodríguez,valentina.rodríguez@outlook.com,+57 384-3860721,medellín,Av. Siempre Viva #2-110,2023-08-24
+313,Paula Pérez,paula.pérez@gmail.com,+57 347-6749933,Villavicencio,Transversal 9 #113-94,22/11/2024
+314,Luis Díaz,luis.díaz@empresa.co,+57 388-9023619,Pereira,Av. Boyacá #35-107,11-28-2023
+315,Camilo Flores,camilo.flores@gmail.com,+57 320-2740017,cali,Calle 80 #17-90,2021-07-14
+316,Sara Ramírez,sara.ramírez@outlook.com,+57 378-7371160,Manizales,Calle 13 #87-57,01-Jun-2024
+317,Paula Ramírez,paula.ramírez@empresa.co,+57 314-7900204,Bogota,Cra 15 #62-118,"May 02, 2022"
+318,Ana Rodríguez,ana.rodríguez@outlook.com,+57 385-6675742,cartagena,Calle 26 #2-91,2024-09-26
+319,Andrés Castro,andrés.castro@outlook.com,+57 361-6800713,Villavicencio,Calle 80 #56-85,"Aug 20, 2022"
+320,Felipe Flores,felipe.flores@gmail.com,+57 301-3632804,Pereira,Cra 15 #108-106,2025-01-10
+321,Juan Pérez,juan.pérez@empresa.co,+57 341-5041494,Manizales,Cra 15 #10-97,30-Apr-2024
+322,Jorge García,jorge.garcía@empresa.co,+57 351-4942645,Ibagué,Diagonal 38 #71-83,09-16-2020
+323,Sofía Pérez,sofía.pérez@empresa.co,+57 357-6302632,Villavicencio,Av. Boyacá #12-110,02-May-2023
+324,Sofía Castro,sofía.castro@gmail.com,+57 371-1002847,BOGOTA,Calle 80 #52-53,19-Mar-2023
+325,Luis Ramírez,luis.ramírez@outlook.com,+57 383-8653898,Villavicencio,Transversal 9 #114-66,2023-07-15
+326,Paula García,paula.garcía@empresa.co,+57 391-7095071,barranquilla,Av. Boyacá #43-72,24-Jan-2023
+327,Sofía Rodríguez,sofía.rodríguez@yahoo.com,+57 381-5898671,Medellin,Diagonal 38 #1-44,2025-02-01
+328,Andrés Gómez,andrés.gómez@empresa.co,+57 317-7865417,Medellin,Av. Siempre Viva #115-22,"Nov 09, 2024"
+329,Jorge Ramírez,jorge.ramírez@empresa.co,+57 327-8667959,barranquilla,Diagonal 38 #16-120,03-Aug-2022
+330,Diana López,diana.lópez@gmail.com,3813067274,Bucaramanga,Calle 80 #97-54,2020-10-24
+331,Sara Pérez,sara.pérez@empresa.co,+57 300-9898037,Manizales,Calle 13 #65-18,2021-07-10
+332,Ana Torres,ana.torres@outlook.com,+57 388-3913368,Pereira,Calle 13 #62-119,06-25-2022
+333,Juan Martínez,juan.martínez@yahoo.com,+57 364-7453568,Medellin,Cra 7 #85-77,27-Apr-2022
+334, Lucía Castro ,lucía.castro@yahoo.com,+57 357-3237608,Barranquila,Transversal 9 #51-44,2024-10-02
+335,Camilo Ramírez,camilo.ramírez@yahoo.com,+57 391-4646403,Ibagué,Transversal 9 #108-90,31/05/2024
+336,María Ramírez,maría.ramírez@outlook.com,+57 390-3983202,cartagena,Calle 26 #118-87,09-15-2024
+337,Andrés Castro,andrés.castro@empresa.co,+57 374-8004117,Bucaramanga,Calle 80 #98-46,28/06/2023
+338,Valentina Torres,valentina.torres@gmail.com,+57 303-7389943,Cartagena ,Cra 7 #104-2,"Feb 25, 2025"
+339,Ana Flores,,+57 336-5203716,Bogota,Diagonal 38 #35-97,"Jul 07, 2023"
+340,Juan García,juan.garcía@gmail.com,+57 345-8593275,Cartagena ,Diagonal 38 #97-70,26-Jun-2021
+341,Lucía Flores,lucía.flores@empresa.co,+57 330-9571853,Ibagué,Diagonal 38 #96-83,14-May-2022
+342,Diana Castro,diana.castro@empresa.co,+57 353-6245463,cartagena,Av. Siempre Viva #119-49,20-Sep-2023
+343,Ana García,ana.garcía@empresa.co,+57 328-7169672,Cartagena ,Diagonal 38 #80-112,18/06/2023
+344,Lucía Torres,lucía.torres@outlook.com,+57 337-8529864,Villavicencio,Diagonal 38 #100-93,02-Dec-2023
+345,Felipe Rodríguez,felipe.rodríguez@gmail.com,+57 348-1681729,cali,Cra 15 #95-66,21-Mar-2022
+346,Jorge Torres,jorge.torres@yahoo.com,+57 300-6545923,Cartagena ,Cra 15 #21-75,"Jan 30, 2023"
+347,Valentina Martínez,valentina.martínez@gmail.com,+57 399-6052539,bogotá,Cra 15 #119-42,30-Sep-2021
+348,Diana Ramírez,,+57 367-4690350,Ibagué,Calle 26 #10-101,19-Feb-2022
+349,Andrés Rodríguez,andrés.rodríguez@empresa.co,3116862008,Ibagué,Cra 15 #54-70,2021-10-01
+350,Sara López,sara.lópez@outlook.com,+57 396-9900294,Bucaramanga,Calle 26 #47-38,11-01-2021
+351,Andrés Flores,andrés.flores@empresa.co,+57 330-5090740,bogotá,Calle 80 #86-45,04-19-2023
+352,Felipe Gómez,felipe.gómez@yahoo.com,+57 303-9671603,Pereira,Calle 80 #50-33,2021-10-04
+353,Diana Gómez,diana.gómez@gmail.com,+57 337-4229821,Ibagué,Cra 30 #58-63,2020-08-14
+354,Andrés Rodríguez,andrés.rodríguez@gmail.com,+57 380-2098434,medellín,Cra 15 #99-69,10/06/2023
+355,Felipe Flores,felipe.flores@outlook.com,+57 368-8302077,barranquilla,Cra 7 #107-14,19-Jan-2024
+356,Juan Rodríguez,juan.rodríguez@yahoo.com,+57 304-2468357,cali,Av. Siempre Viva #59-92,23/10/2023
+357,Ana Martínez,ana.martínez@outlook.com,+57 333-7838943,cartagena,Cra 30 #10-74,"Apr 29, 2020"
+358,Sofía Flores,sofía.flores@empresa.co,+57 386-2984841,Pereira,Cra 7 #41-3,09/01/2022
+359,Ana Flores,ana.flores@gmail.com,+57 389-2217848,Villavicencio,Calle 80 #97-96,"Nov 28, 2023"
+360,Sara Torres,sara.torres@yahoo.com,+57 377-2451316,Medellin,Transversal 9 #101-88,2024-12-25
+259,Camilo Gómez,camilo.gómez@empresa.co,+57 359-5419132,CALI,Av. Boyacá #6-34,2021-12-20
+302,Andrés Martínez,andrés.martínez@gmail.com,3485291430,medellín,Calle 26 #92-84,"May 24, 2020"
+94,Juan Torres,juan.torres@outlook.com,+57 321-6504900,Ibagué,Diagonal 38 #74-69,"Jun 09, 2020"
+133,Juan Díaz,juan.díaz@outlook.com,+57 388-2315798,Ibagué,Calle 26 #50-97,2023-10-30
+176,Paula Torres,paula.torres@yahoo.com,+57 390-5909595,Cartagena ,Calle 13 #69-22,10-Apr-2021
+162,Jorge Castro,jorge.castro@outlook.com,+57 346-6469119,Medellin,Calle 13 #14-103,06-Jan-2023
+6,Valentina Flores,valentina.flores@gmail.com,+57 339-7319630,Pereira,Cra 15 #77-91,"Jul 11, 2024"
+319,Andrés Castro,andrés.castro@outlook.com,+57 361-6800713,Villavicencio,Calle 80 #56-85,"Feb 28, 2021"
+337,Andrés Castro,andrés.castro@empresa.co,+57 374-8004117,Bucaramanga,Calle 80 #98-46,05/10/2021
+341,Lucía Flores,lucía.flores@empresa.co,+57 330-9571853,Ibagué,Diagonal 38 #96-83,21/04/2022
